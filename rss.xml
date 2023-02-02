@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 02 Feb 2023 15:35:16 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 16:07:41 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
@@ -37,19 +37,7 @@
                     <author>chiaosoeli@gmail.com (EliVen)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;p&gt;并不连成文章，只是几个段落，排序按个人喜好。&lt;/p&gt;
-&lt;p&gt;&lt;font size=5&gt;灯光落在海的箔上。&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;航至对岸，水光有所不同。如果说此前的水光由锡箔夋成，那这边的水便是钢笔划出来的。一道一道，一圈一圈，五光十色，妩媚非常。待船停下，周围的水势又有变化。在船周围环绕着粘稠的灰白水波，缓慢地，迟疑着涌动。&lt;/p&gt;
-&lt;p&gt;四个摄像头立在屋檐七扭八歪，像一排牙尖嘴利的鸽子。&lt;/p&gt;
-&lt;p&gt;我迄今的生活始终在重复童年的游戏：将各种药物倒进一个好看的容器里，加水搅拌均匀。它们或许都是对一种病患意义非凡的良药，但却被我出于寂寞而盲目地填进不具生命的容器中，最终化为一片肮脏混沌的污泥。&lt;/p&gt;
-&lt;p&gt;我要说一句叛逆的话：旁人的非议与异目，是有损自美者之美的。所有人都欣赏拥护的美，岂不是更和谐也更受人爱的美？但我不是说美的人就应该在意他人的眼光。我想说的是，正是因为当下的美受了旁人的污染，才要想办法让它更恒久，以让时间冲洗干净。将美之上的污秽清洗干净，以彰其本质，我想所有人都会支持这举措的。若有人非要问，那古时候的器具出土，难道竟要冲洗其泥土？那我只能诚恳回答：此时其上的泥土已是其美的一部分，正如一时诽言于百世佳人：自然地，还是要出土才有其美的。&lt;/p&gt;
-&lt;p&gt;比起对岸群楼组成的光墙，反而此岸兀出的一角镶着白灯的观景台更合我胃口。&lt;/p&gt;
-&lt;p&gt;看他的昂首阔步，若身后两位不是他的父母，就真让人羡慕其自是与从容。&lt;/p&gt;
-&lt;h3 id=&#34;最后&#34;&gt;最后&lt;/h3&gt;
-&lt;p&gt;dropCap: false.
-如果晚上有精神的话写个脚本，给obsidian加个直接把文章同步到blog并push的快捷键。&lt;/p&gt;
-</description>
+                <description>灯光落在海的箔上</description>
                 
                 
                 
@@ -72,34 +60,7 @@
                     <author>chiaosoeli@gmail.com (EliVen)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;blockquote&gt;
-&lt;p&gt;爱是克制。
-——易宣洪&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在他的建议下开设此栏，更新游戏设计的反思和进展.&lt;/p&gt;
-&lt;p&gt;最近应该主要更新某款垃圾烂尾游戏的相关无聊内容，这里称之为A。&lt;/p&gt;
-&lt;p&gt;记录一下昨天和前天测试的收获。&lt;/p&gt;
-&lt;h3 id=&#34;发现的问题&#34;&gt;发现的问题：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;上手困难，CoreSet文字量太大。需要删减内容。&lt;/li&gt;
-&lt;li&gt;CoreSet设计失衡，因为二环卡太少而三环卡太多。需要调整两者数量。&lt;/li&gt;
-&lt;li&gt;前期节奏太慢，原因是CoreSet的卡牌费用设计不合理，需要增加速度的消耗、减少魔素的消耗。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;反思&#34;&gt;反思&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;需要机制和设计思路的规划。可以再多花点时间学习成熟经验。&lt;/li&gt;
-&lt;li&gt;更多的测试。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;最后&#34;&gt;最后&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;可是虚时绝妙剑真的很帅诶！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Love is customization.
-——EliVen&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+                <description>爱是克制。  ——易宣洪</description>
                 
                 
                 
@@ -138,8 +99,7 @@
                     <author>chiaosoeli@gmail.com (EliVen)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description></description>
+                <description></description>
                 
                 
                 
