@@ -2,9 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Eli-Ven.github.io/categories/</loc>
+    <loc>http://Eli-Ven.github.io/post/first/</loc>
+    <lastmod>2023-02-02T10:25:42+08:00</lastmod>
   </url><url>
     <loc>http://Eli-Ven.github.io/</loc>
+    <lastmod>2023-02-02T10:25:42+08:00</lastmod>
+  </url><url>
+    <loc>http://Eli-Ven.github.io/post/</loc>
+    <lastmod>2023-02-02T10:25:42+08:00</lastmod>
+  </url><url>
+    <loc>http://Eli-Ven.github.io/posts/first/</loc>
+    <lastmod>2023-02-02T10:25:20+08:00</lastmod>
+  </url><url>
+    <loc>http://Eli-Ven.github.io/posts/</loc>
+    <lastmod>2023-02-02T10:25:20+08:00</lastmod>
+  </url><url>
+    <loc>http://Eli-Ven.github.io/about/</loc>
+    <lastmod>2023-02-02T00:02:34+08:00</lastmod>
+  </url><url>
+    <loc>http://Eli-Ven.github.io/categories/</loc>
   </url><url>
     <loc>http://Eli-Ven.github.io/tags/</loc>
   </url>
