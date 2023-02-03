@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eli-ven.github.io/tags/a-card/</loc>
+    <lastmod>2023-02-03T21:08:24+08:00</lastmod>
+  </url><url>
     <loc>https://eli-ven.github.io/posts/gd/a_rule/</loc>
-    <lastmod>2023-02-03T20:41:31+08:00</lastmod>
+    <lastmod>2023-02-03T21:08:24+08:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/</loc>
-    <lastmod>2023-02-03T21:01:49+08:00</lastmod>
+    <lastmod>2023-02-03T21:13:10+08:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/posts/</loc>
-    <lastmod>2023-02-03T20:41:31+08:00</lastmod>
+    <lastmod>2023-02-03T21:08:24+08:00</lastmod>
+  </url><url>
+    <loc>https://eli-ven.github.io/tags/</loc>
+    <lastmod>2023-02-03T21:08:24+08:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/posts/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-02-02T16:06:41+08:00</lastmod>
-  </url><url>
-    <loc>https://eli-ven.github.io/tags/a-card/</loc>
-    <lastmod>2023-02-02T15:51:03+08:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/categories/</loc>
     <lastmod>2023-02-02T15:51:03+08:00</lastmod>
@@ -26,13 +29,10 @@
     <loc>https://eli-ven.github.io/posts/gd/hello_game/</loc>
     <lastmod>2023-02-02T15:51:03+08:00</lastmod>
   </url><url>
-    <loc>https://eli-ven.github.io/tags/</loc>
-    <lastmod>2023-02-02T15:51:03+08:00</lastmod>
-  </url><url>
     <loc>https://eli-ven.github.io/posts/hello_world/</loc>
     <lastmod>2023-02-02T13:25:47+08:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/about/</loc>
-    <lastmod>2023-02-03T21:01:49+08:00</lastmod>
+    <lastmod>2023-02-03T21:13:10+08:00</lastmod>
   </url>
 </urlset>
