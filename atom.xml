@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-02-14T07:16:57&#43;08:00</updated>
+    <updated>2023-02-14T14:02:16&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -17,10 +17,51 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
         <entry>
+            <title type="text">四格小说 情人节篇</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction_valentine/" />
+            <id>https://eli-ven.github.io/posts/fourction/fourction_valentine/</id>
+            <updated>2023-02-14T14:01:37&#43;08:00</updated>
+            <published>2023-02-14T13:50:06&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">乔瑟夫</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">小寡妇上坟-1</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/%E5%B0%8F%E5%AF%A1%E5%A6%87%E4%B8%8A%E5%9D%9F/" />
-            <id>https://eli-ven.github.io/posts/%E5%B0%8F%E5%AF%A1%E5%A6%87%E4%B8%8A%E5%9D%9F/</id>
-            <updated>2023-02-13T16:56:26&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpunk/cyberpunk_lucy/" />
+            <id>https://eli-ven.github.io/posts/cyberpunk/cyberpunk_lucy/</id>
+            <updated>2023-02-14T14:01:40&#43;08:00</updated>
             <published>2023-02-13T16:02:38&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -35,7 +76,23 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fiction/" term="fiction" label="fiction" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cyberpunk/" term="cyberpunk" label="cyberpunk" />
+                            
+                        
                     
                 
             
@@ -43,9 +100,9 @@
     
         <entry>
             <title type="text">补档：雨夜行走</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/%E8%A1%A5%E6%A1%A3/" />
-            <id>https://eli-ven.github.io/posts/%E8%A1%A5%E6%A1%A3/</id>
-            <updated>2023-02-07T17:47:49&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/makeup1/" />
+            <id>https://eli-ven.github.io/posts/makeup1/</id>
+            <updated>2023-02-14T14:01:31&#43;08:00</updated>
             <published>2023-02-07T17:23:39&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -62,15 +119,23 @@
                     
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/reality/" term="reality" label="reality" />
+                            
+                        
+                    
                 
             
         </entry>
     
         <entry>
             <title type="text">随笔</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/%E9%9A%8F%E7%AC%94/" />
-            <id>https://eli-ven.github.io/posts/%E9%9A%8F%E7%AC%94/</id>
-            <updated>2023-02-02T16:06:41&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/jottings/jotting1/" />
+            <id>https://eli-ven.github.io/posts/jottings/jotting1/</id>
+            <updated>2023-02-14T14:01:26&#43;08:00</updated>
             <published>2023-02-02T15:04:46&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -85,36 +150,11 @@
             
                 
                     
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Hello_game</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/gd/hello_game/" />
-            <id>https://eli-ven.github.io/posts/gd/hello_game/</id>
-            <updated>2023-02-02T15:51:03&#43;08:00</updated>
-            <published>2023-02-02T14:39:06&#43;08:00</published>
-            <author>
-                    <name>EliVen</name>
-                    <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">爱是克制。  ——易宣洪</summary>
-            
-            
-            
-            
-            
-                
-                    
                         
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/game-design/" term="game design" label="game design" />
+                                <category scheme="https://eli-ven.github.io/categories/jottings/" term="jottings" label="jottings" />
                             
                         
                     
@@ -124,7 +164,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/a-card/" term="A card" label="A card" />
+                                <category scheme="https://eli-ven.github.io/tags/reality/" term="reality" label="reality" />
                             
                         
                     

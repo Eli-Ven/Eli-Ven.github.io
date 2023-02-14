@@ -23,15 +23,54 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 14 Feb 2023 07:16:57 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 14:02:16 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
         
             <item>
+                <title>四格小说 情人节篇</title>
+                <link>https://eli-ven.github.io/posts/fourction/fourction_valentine/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction_valentine/</guid>
+                <pubDate>Tue, 14 Feb 2023 13:50:06 &#43;0800</pubDate>
+                
+                    <author>chiaosoeli@gmail.com (EliVen)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>乔瑟夫</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>小寡妇上坟-1</title>
-                <link>https://eli-ven.github.io/posts/%E5%B0%8F%E5%AF%A1%E5%A6%87%E4%B8%8A%E5%9D%9F/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/%E5%B0%8F%E5%AF%A1%E5%A6%87%E4%B8%8A%E5%9D%9F/</guid>
+                <link>https://eli-ven.github.io/posts/cyberpunk/cyberpunk_lucy/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpunk/cyberpunk_lucy/</guid>
                 <pubDate>Mon, 13 Feb 2023 16:02:38 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (EliVen)</author>
@@ -45,7 +84,23 @@
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://eli-ven.github.io/categories/fiction/">fiction</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://eli-ven.github.io/tags/cyberpunk/">cyberpunk</category>
+                                
+                            
                         
                     
                 
@@ -53,8 +108,8 @@
         
             <item>
                 <title>补档：雨夜行走</title>
-                <link>https://eli-ven.github.io/posts/%E8%A1%A5%E6%A1%A3/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/%E8%A1%A5%E6%A1%A3/</guid>
+                <link>https://eli-ven.github.io/posts/makeup1/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/makeup1/</guid>
                 <pubDate>Tue, 07 Feb 2023 17:23:39 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (EliVen)</author>
@@ -70,14 +125,22 @@
                         
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://eli-ven.github.io/tags/reality/">reality</category>
+                                
+                            
+                        
                     
                 
             </item>
         
             <item>
                 <title>随笔</title>
-                <link>https://eli-ven.github.io/posts/%E9%9A%8F%E7%AC%94/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/%E9%9A%8F%E7%AC%94/</guid>
+                <link>https://eli-ven.github.io/posts/jottings/jotting1/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/jottings/jotting1/</guid>
                 <pubDate>Thu, 02 Feb 2023 15:04:46 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (EliVen)</author>
@@ -91,34 +154,11 @@
                 
                     
                         
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Hello_game</title>
-                <link>https://eli-ven.github.io/posts/gd/hello_game/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/gd/hello_game/</guid>
-                <pubDate>Thu, 02 Feb 2023 14:39:06 &#43;0800</pubDate>
-                
-                    <author>chiaosoeli@gmail.com (EliVen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>爱是克制。  ——易宣洪</description>
-                
-                
-                
-                
-                
-                    
-                        
                             
                                 
                                 
                                 
-                                    <category domain="https://eli-ven.github.io/categories/game-design/">game design</category>
+                                    <category domain="https://eli-ven.github.io/categories/jottings/">jottings</category>
                                 
                             
                         
@@ -128,7 +168,7 @@
                                 
                                 
                                 
-                                    <category domain="https://eli-ven.github.io/tags/a-card/">A card</category>
+                                    <category domain="https://eli-ven.github.io/tags/reality/">reality</category>
                                 
                             
                         
