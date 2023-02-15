@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-02-15T14:13:31&#43;08:00</updated>
+    <updated>2023-02-15T14:17:01&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -17,17 +17,17 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
         <entry>
-            <title type="text">Fourction2_15</title>
+            <title type="text">四格小说2.15</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_15/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_15/</id>
-            <updated>2023-02-15T14:12:40&#43;08:00</updated>
+            <updated>2023-02-15T14:16:53&#43;08:00</updated>
             <published>2023-02-15T14:11:14&#43;08:00</published>
             <author>
                     <name>EliVen</name>
                     <uri>https://eli-ven.github.io/</uri>
                     <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我最近怎么这么高产。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我最近怎么这么高产。另外更新了页面下方的邮件订阅。</summary>
             
             
             
