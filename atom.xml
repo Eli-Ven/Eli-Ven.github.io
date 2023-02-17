@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-02-17T15:37:57&#43;08:00</updated>
+    <updated>2023-02-18T05:41:35&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,47 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+        <entry>
+            <title type="text">Fourction2_18</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_18/" />
+            <id>https://eli-ven.github.io/posts/fourction/fourction2_18/</id>
+            <updated>2023-02-18T05:39:48&#43;08:00</updated>
+            <published>2023-02-18T05:36:29&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">明明不容许，我还是做了这样的梦。</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">四格小说2.17</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_17/" />
@@ -102,7 +143,7 @@
             <title type="text">四格小说2.15</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_15/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_15/</id>
-            <updated>2023-02-17T14:29:12&#43;08:00</updated>
+            <updated>2023-02-17T16:01:18&#43;08:00</updated>
             <published>2023-02-15T14:11:14&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -214,39 +255,6 @@
                             
                             
                                 <category scheme="https://eli-ven.github.io/tags/cyberpunk/" term="cyberpunk" label="cyberpunk" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">补档：雨夜行走</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/makeup1/" />
-            <id>https://eli-ven.github.io/posts/makeup1/</id>
-            <updated>2023-02-14T14:01:31&#43;08:00</updated>
-            <published>2023-02-07T17:23:39&#43;08:00</published>
-            <author>
-                    <name>EliVen</name>
-                    <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">这真是张好脸，啊，啊，多好的脸。</summary>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://eli-ven.github.io/tags/reality/" term="reality" label="reality" />
                             
                         
                     
