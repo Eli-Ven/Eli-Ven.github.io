@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-02-19T07:38:07&#43;08:00</updated>
+    <updated>2023-02-20T14:13:35&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -17,10 +17,51 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
         <entry>
-            <title type="text">四格小说2.19</title>
+            <title type="text">四格小说2.20鸣响专场</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_20/" />
+            <id>https://eli-ven.github.io/posts/fourction/fourction2_20/</id>
+            <updated>2023-02-20T14:13:29&#43;08:00</updated>
+            <published>2023-02-20T14:12:29&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">方鸣和邓响吐槽孙彻1 方鸣和邓响在食堂偶遇，聊到孙彻。 方鸣：『你有没有觉得孙彻最近有点…</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">四格小说2.19孙宁专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_19/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_19/</id>
-            <updated>2023-02-19T07:38:02&#43;08:00</updated>
+            <updated>2023-02-20T14:12:01&#43;08:00</updated>
             <published>2023-02-19T07:37:48&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -58,10 +99,10 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.18</title>
+            <title type="text">四格小说2.18轻摇专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_18/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_18/</id>
-            <updated>2023-02-18T07:53:23&#43;08:00</updated>
+            <updated>2023-02-20T14:12:15&#43;08:00</updated>
             <published>2023-02-18T07:52:46&#43;08:00</published>
             <author>
                     <name>EliVen</name>
