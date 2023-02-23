@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-02-22T11:57:21&#43;08:00</updated>
+    <updated>2023-02-23T09:36:56&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,47 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+        <entry>
+            <title type="text">四格小说2.23</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_23/" />
+            <id>https://eli-ven.github.io/posts/fourction/fourction2_23/</id>
+            <updated>2023-02-23T09:36:51&#43;08:00</updated>
+            <published>2023-02-23T09:35:16&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">关关难过关关过</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">四格小说2.22林月专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_22/" />
