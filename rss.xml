@@ -23,10 +23,33 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 26 Apr 2023 13:46:58 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 10:37:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Steam Deck 更换SSD 操作指南</title>
+                <link>https://eli-ven.github.io/posts/steamdeck/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/steamdeck/</guid>
+                <pubDate>Thu, 04 May 2023 10:11:01 &#43;0800</pubDate>
+                
+                    <author>chiaosoeli@gmail.com (EliVen)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>记录一些踩过的坑，应该是一个比较完整的操作指南。</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>四格小说4.26</title>

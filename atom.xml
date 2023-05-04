@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore Fortress</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-04-26T13:46:58&#43;08:00</updated>
+    <updated>2023-05-04T10:37:33&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+        <entry>
+            <title type="text">Steam Deck 更换SSD 操作指南</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/steamdeck/" />
+            <id>https://eli-ven.github.io/posts/steamdeck/</id>
+            <updated>2023-05-04T10:37:22&#43;08:00</updated>
+            <published>2023-05-04T10:11:01&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">记录一些踩过的坑，应该是一个比较完整的操作指南。</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">四格小说4.26</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_26/" />
