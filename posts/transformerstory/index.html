@@ -57,7 +57,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2023-05-11T12:24:14+08:00",
-        "dateModified": "2023-05-11T12:26:01+08:00",
+        "dateModified": "2023-05-11T12:31:40+08:00",
         "url": "https://eli-ven.github.io/posts/transformerstory/",
         "headline": "Attention的寓言",
         "description": "一个解释self-attention1机制的寓言故事。",
@@ -102,7 +102,7 @@
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://eli-ven.github.io/icons/apple-touch-icon.png" />
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2023-05-11T12:24:14&#43;08:00" />
-    <meta property="article:modified_time" content="2023-05-11T12:26:01&#43;08:00" />
+    <meta property="article:modified_time" content="2023-05-11T12:31:40&#43;08:00" />
     
     <meta property="article:section" content="posts" />
 
@@ -237,7 +237,7 @@
     
     
         
-        <time datetime="2023-05-11T12:26:01&#43;08:00" class="post-meta-item modified dt-updated"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2023.5.11</time>
+        <time datetime="2023-05-11T12:31:40&#43;08:00" class="post-meta-item modified dt-updated"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2023.5.11</time>
     
     
     
@@ -266,8 +266,8 @@
 <p>首先是self-attention的目的。self-attention layer的作用是把n个词向量转换成n个矩阵（然后concat成一个），而使用self-attention mechanism的目的则是让每一个矩阵既能保留对应词向量的【有用】信息，又能包含其它【有关】的词向量的信息。一句话概括：保存【每一个】词向量的【有价值】信息。</p>
 <p>举例：Never gonna give you up，模型在翻译give的时候就要关注up而不是you，如果只看give you就翻译成「给你」了，而关注「give up」就可以翻译成放弃。</p>
 <p>那么，self-attention是怎么做到这一点呢？</p>
-<p>可以用一个跳蚤市场做比喻。我们把句子中的每一个词作为一个人，你是「give」，我是「you」，他是「up」，我们共同的名字是「孤独的英语单词乡巴佬」，要在跳蚤市场购买我们的进城货，去「汉字大都市」里开始新的生活。每个人有一个摊位，我们既拥有全部商品，也需要购买很多商品。我们拥有的商品就是我们各自的语义信息，也就是value，我们要买的商品就是所有与我们有关的语义信息。</p>
-<p>我们怎么才能买到需要的东西呢？跳蚤市场的两名工作人员（Weight-q，Weight-k）会帮你们所有人【各自】列出购物清单（query）和商品清单（key）。query=Wq x value, key = Wk x value。工作人员经验丰富（train过），所以一看到give就知道你可能需要up，给你的query写【寂寞少妇重金求up】，给你的key写【性感give可you可up】</p>
+<p>可以用一个跳蚤市场做比喻。我们把句子中的每一个词作为一个人，他是「give」，你是「you」，我是「up」，我们共同的名字是「孤独的英语单词乡巴佬」，要在跳蚤市场购买我们的进城货，去「汉字大都市」里开始新的生活。每个人有一个摊位，我们既拥有全部商品，也需要购买很多商品。我们拥有的商品就是我们各自的语义信息，也就是value，我们要买的商品就是所有与我们有关的语义信息。</p>
+<p>我们怎么才能买到需要的东西呢？跳蚤市场的两名工作人员（Weight-q，Weight-k）会帮我们所有人【各自】列出购物清单（query）和商品清单（key）。query=Wq x value, key = Wk x value。工作人员经验丰富（train过），所以一看到give就知道他可能需要up，给他的query写【寂寞少妇重金求up】，给他的key写【性感give可you可up】</p>
 <p>这样一来，我们只需要按照自己的购物清单（query）和所有人的商品清单（key）一一对比，就能知道这个人的摊位上我要买哪些、买多少东西了。这个对比的结论就是score。score = Norm（query x key）。</p>
 <p>再然后，我只需要按照每个摊位的score进行购物，就能得到所有我需要的商品。将他们放在一起就是我这次购物的结果了。X = ∑score x value。</p>
 <p>那么我们这一个句子中的每一个词走进跳蚤市场再出来以后就都是满载而归，give找到了它的up，let找到了它的down，只有you孤独一人，只好在每个词上都匀一点货。所有人都如愿过上了城里人的生活，也就是destination的结果了。我们在城市里带着与其它人的联系和别离重新开始生活，或达成契约，或孤老苍山，「never gonna give you up」变成了「永远不会放弃你」，give和up组建成了新的家庭「放弃」，但正如这名字一样，他们过去的付出与向上通通被抛却、变成仅供回忆的童年；never和它自己决裂，在青山医院，「永远」和「不」两个人格纠缠不休。gonna没有在跳蚤市场收获新的生命，反而被他人买走了所有独特的闪光点，成为和will, may, can都差不多的平凡的「会」。而you，我的朋友，你从人群当中走了出来，走到了句子的结尾，变成了「你」今天的模样，好像什么都没变，又好像什么都变了。</p>
@@ -299,7 +299,7 @@
 
         
     <div class="updated-badge-container">
-        <span title="Updated @ 2023-05-11 12:26:01 HKT" style="cursor:help">
+        <span title="Updated @ 2023-05-11 12:31:40 HKT" style="cursor:help">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" class="updated-badge"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="130" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#a)"><path class="updated-badge-left" d="M0 0h55v20H0z"/><path class="updated-badge-right" d="M55 0h75v20H55z"/><path fill="url(#b)" d="M0 0h130v20H0z"/></g><g fill="#fff" text-anchor="middle" font-size="110"><text x="285" y="150" fill="#010101" fill-opacity=".3" textLength="450" transform="scale(.1)">updated</text><text x="285" y="140" textLength="450" transform="scale(.1)">updated</text><text x="915" y="150" fill="#010101" fill-opacity=".3" textLength="650" transform="scale(.1)">2023-05-11</text><text x="915" y="140" textLength="650" transform="scale(.1)">2023-05-11</text></g></svg>
         </span></div>
