@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore Fortress</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-05-22T09:43:57&#43;08:00</updated>
+    <updated>2023-06-02T17:21:35&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+        <entry>
+            <title type="text">文字转录两三事</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/transcribe/" />
+            <id>https://eli-ven.github.io/posts/transcribe/</id>
+            <updated>2023-06-02T17:21:20&#43;08:00</updated>
+            <published>2023-06-02T17:08:06&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我摊牌了，我吃书了：我逐渐忍不住讲一些日常生活了</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">王国之泪不如荒野之息第一部</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/kingdomstear_negative/" />
