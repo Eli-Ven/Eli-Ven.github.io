@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 08 Jun 2023 10:05:29 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 11:30:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
@@ -69,37 +69,6 @@
                     
                         
                     
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Attention的寓言</title>
-                <link>https://eli-ven.github.io/posts/transformerstory/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/transformerstory/</guid>
-                <pubDate>Thu, 11 May 2023 12:24:14 &#43;0800</pubDate>
-                
-                    <author>chiaosoeli@gmail.com (EliVen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>一个解释self-attention机制的寓言故事。</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://eli-ven.github.io/tags/transformer/">transformer</category>
-                                
-                            
                         
                     
                 
