@@ -10,7 +10,7 @@
         <title>Nevermore Fortress</title>
         <link>https://eli-ven.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.110.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.118.2 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,10 +23,33 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 19 Jun 2023 21:28:44 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 04:54:49 &#43;0200</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
+        
+            <item>
+                <title>被催的更</title>
+                <link>https://eli-ven.github.io/posts/updateaya/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/updateaya/</guid>
+                <pubDate>Fri, 22 Sep 2023 04:52:26 &#43;0200</pubDate>
+                
+                    <author>chiaosoeli@gmail.com (EliVen)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>如fox所愿。</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Attention的寓言</title>

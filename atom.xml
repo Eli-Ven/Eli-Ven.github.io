@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore Fortress</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-06-19T21:28:44&#43;08:00</updated>
+    <updated>2023-09-22T04:54:49&#43;02:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -15,12 +15,37 @@
                 <email>chiaosoeli@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator>
+        <entry>
+            <title type="text">被催的更</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/updateaya/" />
+            <id>https://eli-ven.github.io/posts/updateaya/</id>
+            <updated>2023-09-22T04:54:40&#43;02:00</updated>
+            <published>2023-09-22T04:52:26&#43;02:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">如fox所愿。</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Attention的寓言</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/transformerstory/" />
             <id>https://eli-ven.github.io/posts/transformerstory/</id>
-            <updated>2023-06-16T11:30:06&#43;08:00</updated>
+            <updated>2023-06-16T05:30:06&#43;02:00</updated>
             <published>2023-06-16T12:24:14&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -53,7 +78,7 @@
             <title type="text">文字转录两三事</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/transcribe/" />
             <id>https://eli-ven.github.io/posts/transcribe/</id>
-            <updated>2023-06-08T10:05:14&#43;08:00</updated>
+            <updated>2023-06-08T04:05:14&#43;02:00</updated>
             <published>2023-06-02T17:08:06&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -78,7 +103,7 @@
             <title type="text">王国之泪不如荒野之息第一部</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/kingdomstear_negative/" />
             <id>https://eli-ven.github.io/posts/kingdomstear_negative/</id>
-            <updated>2023-05-22T09:35:06&#43;08:00</updated>
+            <updated>2023-05-22T03:35:06&#43;02:00</updated>
             <published>2023-05-22T09:29:43&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -103,7 +128,7 @@
             <title type="text">Steam Deck 更换SSD 操作指南</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/steamdeck/" />
             <id>https://eli-ven.github.io/posts/steamdeck/</id>
-            <updated>2023-05-11T12:24:42&#43;08:00</updated>
+            <updated>2023-05-11T06:24:42&#43;02:00</updated>
             <published>2023-05-04T10:11:01&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -136,7 +161,7 @@
             <title type="text">四格小说4.26</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_26/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_26/</id>
-            <updated>2023-04-26T13:46:39&#43;08:00</updated>
+            <updated>2023-04-26T07:46:39&#43;02:00</updated>
             <published>2023-04-26T13:46:26&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -177,7 +202,7 @@
             <title type="text">四格小说4.22</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_22/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_22/</id>
-            <updated>2023-04-22T22:23:49&#43;08:00</updated>
+            <updated>2023-04-22T16:23:49&#43;02:00</updated>
             <published>2023-04-22T17:09:28&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -218,7 +243,7 @@
             <title type="text">四格小说4.21</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_21/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_21/</id>
-            <updated>2023-04-21T08:04:00&#43;08:00</updated>
+            <updated>2023-04-21T02:04:00&#43;02:00</updated>
             <published>2023-04-21T08:01:56&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -259,7 +284,7 @@
             <title type="text">ChickenSoup</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/chickensoup/" />
             <id>https://eli-ven.github.io/posts/chickensoup/</id>
-            <updated>2023-04-15T23:41:43&#43;08:00</updated>
+            <updated>2023-04-15T17:41:43&#43;02:00</updated>
             <published>2023-04-15T23:34:56&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -284,7 +309,7 @@
             <title type="text">四格小说4.9</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_14/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_14/</id>
-            <updated>2023-04-14T22:21:23&#43;08:00</updated>
+            <updated>2023-04-14T16:21:23&#43;02:00</updated>
             <published>2023-04-09T22:20:23&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -325,7 +350,7 @@
             <title type="text">关于我的近况和更新的预告</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/recent_situation/" />
             <id>https://eli-ven.github.io/posts/recent_situation/</id>
-            <updated>2023-04-06T10:08:54&#43;08:00</updated>
+            <updated>2023-04-06T04:08:54&#43;02:00</updated>
             <published>2023-03-31T12:06:52&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -350,7 +375,7 @@
             <title type="text">四格小说3.03</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_03/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_03/</id>
-            <updated>2023-03-03T20:29:23&#43;08:00</updated>
+            <updated>2023-03-03T13:29:23&#43;01:00</updated>
             <published>2023-03-03T20:29:14&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -391,7 +416,7 @@
             <title type="text">四格小说3.02</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_02/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_02/</id>
-            <updated>2023-03-02T17:32:18&#43;08:00</updated>
+            <updated>2023-03-02T10:32:18&#43;01:00</updated>
             <published>2023-03-02T17:32:07&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -432,7 +457,7 @@
             <title type="text">四格小说3.01</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_01/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_01/</id>
-            <updated>2023-03-01T10:18:34&#43;08:00</updated>
+            <updated>2023-03-01T03:18:34&#43;01:00</updated>
             <published>2023-03-01T10:16:28&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -473,7 +498,7 @@
             <title type="text">四格小说2.28</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_28/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_28/</id>
-            <updated>2023-02-28T11:44:32&#43;08:00</updated>
+            <updated>2023-02-28T04:44:32&#43;01:00</updated>
             <published>2023-02-28T11:25:10&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -514,7 +539,7 @@
             <title type="text">四格小说2.27孙澈专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_27/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_27/</id>
-            <updated>2023-02-27T16:18:10&#43;08:00</updated>
+            <updated>2023-02-27T09:18:10&#43;01:00</updated>
             <published>2023-02-27T16:16:52&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -555,7 +580,7 @@
             <title type="text">四格小说2.26</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_26/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_26/</id>
-            <updated>2023-02-26T20:28:57&#43;08:00</updated>
+            <updated>2023-02-26T13:28:57&#43;01:00</updated>
             <published>2023-02-26T11:03:22&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -596,7 +621,7 @@
             <title type="text">四格小说2.25林月专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_25/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_25/</id>
-            <updated>2023-02-25T09:39:59&#43;08:00</updated>
+            <updated>2023-02-25T02:39:59&#43;01:00</updated>
             <published>2023-02-25T09:34:01&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -637,7 +662,7 @@
             <title type="text">四格小说2.24树洞起源</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_24/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_24/</id>
-            <updated>2023-03-31T13:49:23&#43;08:00</updated>
+            <updated>2023-03-31T07:49:23&#43;02:00</updated>
             <published>2023-02-24T13:48:27&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -678,7 +703,7 @@
             <title type="text">四格小说2.23林月专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_23/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_23/</id>
-            <updated>2023-02-26T21:17:51&#43;08:00</updated>
+            <updated>2023-02-26T14:17:51&#43;01:00</updated>
             <published>2023-02-23T09:35:16&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -719,7 +744,7 @@
             <title type="text">四格小说2.22</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_22/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_22/</id>
-            <updated>2023-02-26T19:58:55&#43;08:00</updated>
+            <updated>2023-02-26T12:58:55&#43;01:00</updated>
             <published>2023-02-22T11:55:42&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -760,7 +785,7 @@
             <title type="text">四格小说2.21</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_21/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_21/</id>
-            <updated>2023-02-21T10:21:31&#43;08:00</updated>
+            <updated>2023-02-21T03:21:31&#43;01:00</updated>
             <published>2023-02-21T10:20:44&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -801,7 +826,7 @@
             <title type="text">四格小说2.20鸣响专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_20/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_20/</id>
-            <updated>2023-02-20T14:14:10&#43;08:00</updated>
+            <updated>2023-02-20T07:14:10&#43;01:00</updated>
             <published>2023-02-20T14:12:29&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -842,7 +867,7 @@
             <title type="text">四格小说2.19孙宁专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_19/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_19/</id>
-            <updated>2023-02-20T14:12:01&#43;08:00</updated>
+            <updated>2023-02-20T07:12:01&#43;01:00</updated>
             <published>2023-02-19T07:37:48&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -883,7 +908,7 @@
             <title type="text">四格小说2.18轻摇专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_18/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_18/</id>
-            <updated>2023-02-20T14:12:15&#43;08:00</updated>
+            <updated>2023-02-20T07:12:15&#43;01:00</updated>
             <published>2023-02-18T07:52:46&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -924,7 +949,7 @@
             <title type="text">四格小说2.17鸣响专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_17/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_17/</id>
-            <updated>2023-02-18T08:41:38&#43;08:00</updated>
+            <updated>2023-02-18T01:41:38&#43;01:00</updated>
             <published>2023-02-17T09:07:13&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -965,7 +990,7 @@
             <title type="text">四格小说2.16</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_16/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_16/</id>
-            <updated>2023-02-17T14:29:58&#43;08:00</updated>
+            <updated>2023-02-17T07:29:58&#43;01:00</updated>
             <published>2023-02-16T09:07:13&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -1006,7 +1031,7 @@
             <title type="text">四格小说2.15</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_15/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_15/</id>
-            <updated>2023-02-28T10:59:49&#43;08:00</updated>
+            <updated>2023-02-28T03:59:49&#43;01:00</updated>
             <published>2023-02-15T14:11:14&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -1047,7 +1072,7 @@
             <title type="text">四格小说 情人节篇</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction_valentine/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction_valentine/</id>
-            <updated>2023-02-18T22:46:21&#43;08:00</updated>
+            <updated>2023-02-18T15:46:21&#43;01:00</updated>
             <published>2023-02-14T13:50:06&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -1088,7 +1113,7 @@
             <title type="text">随笔</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/jottings/jotting1/" />
             <id>https://eli-ven.github.io/posts/jottings/jotting1/</id>
-            <updated>2023-04-22T22:46:09&#43;08:00</updated>
+            <updated>2023-04-22T16:46:09&#43;02:00</updated>
             <published>2023-02-02T15:04:46&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -1129,7 +1154,7 @@
             <title type="text">Hello_world</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/hello_world/" />
             <id>https://eli-ven.github.io/posts/hello_world/</id>
-            <updated>2023-02-02T13:25:47&#43;08:00</updated>
+            <updated>2023-02-02T06:25:47&#43;01:00</updated>
             <published>2023-02-02T13:05:33&#43;08:00</published>
             <author>
                     <name>EliVen</name>
