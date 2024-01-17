@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nevermore Fortress</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-11-27T08:00:06&#43;01:00</updated>
+    <updated>2024-01-17T15:02:22&#43;01:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator>
+        <entry>
+            <title type="text">钥匙牌的重启</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/keyrestart/" />
+            <id>https://eli-ven.github.io/posts/keyrestart/</id>
+            <updated>2024-01-17T15:02:04&#43;01:00</updated>
+            <published>2024-01-17T15:01:22&#43;01:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我现在感觉，所谓三大错觉之一「她喜欢我」，真不是男的普信，而是有的女的笑起来太好看让…</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">环世界真是太好玩辣！</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/thisweek1/" />
