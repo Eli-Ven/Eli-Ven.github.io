@@ -23,10 +23,33 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 03 Feb 2024 11:26:20 &#43;0100</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 06:49:19 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
+        
+            <item>
+                <title>新企划，赛博朋克：未来前瞻</title>
+                <link>https://eli-ven.github.io/posts/cyberpunktrpg/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpunktrpg/</guid>
+                <pubDate>Tue, 06 Feb 2024 06:46:07 &#43;0100</pubDate>
+                
+                    <author>chiaosoeli@gmail.com (EliVen)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>这是对我们将能见到的未来的可能性的观测。 动机 深感现代人需要一款容易上手的TRPG世界…</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>8puzzle通解</title>
