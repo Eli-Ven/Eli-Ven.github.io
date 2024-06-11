@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-05-25T20:50:53&#43;02:00</updated>
+    <updated>2024-06-11T23:31:46&#43;02:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.121.2">Hugo</generator>
+        <entry>
+            <title type="text">当我们谈论过去时，并不必须是回忆</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/something/" />
+            <id>https://eli-ven.github.io/posts/something/</id>
+            <updated>2024-06-11T23:31:35&#43;02:00</updated>
+            <published>2024-06-11T23:28:50&#43;02:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">翻到了大约是五年前写的文字。</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">5月游戏测评：火山的女儿，诺科，恶魔轮盘</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_5/" />
@@ -45,7 +70,7 @@
             <title type="text">4月游戏测评：冰汽时代，万智牌OTJ，文明六，酒保行动</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_4/" />
             <id>https://eli-ven.github.io/posts/games_24_4/</id>
-            <updated>2024-05-25T20:50:50&#43;02:00</updated>
+            <updated>2024-06-09T21:49:11&#43;02:00</updated>
             <published>2024-05-05T17:54:46&#43;02:00</published>
             <author>
                     <name>EliVen</name>
