@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-06-11T23:31:46&#43;02:00</updated>
+    <updated>2024-07-01T19:36:29&#43;02:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.121.2">Hugo</generator>
+        <entry>
+            <title type="text">6月游戏测评：植物大战僵尸，暖雪，潜水员戴夫</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_6/" />
+            <id>https://eli-ven.github.io/posts/games_24_6/</id>
+            <updated>2024-07-01T19:36:18&#43;02:00</updated>
+            <published>2024-07-01T19:18:57&#43;02:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">看到文明七的预告，于是决定在文明七发售之前通过一次文明六的神难度。 成功了。 还顺带把文…</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">当我们谈论过去时，并不必须是回忆</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/something/" />
@@ -45,7 +70,7 @@
             <title type="text">5月游戏测评：火山的女儿，诺科，恶魔轮盘</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_5/" />
             <id>https://eli-ven.github.io/posts/games_24_5/</id>
-            <updated>2024-05-25T20:40:26&#43;02:00</updated>
+            <updated>2024-07-01T19:19:57&#43;02:00</updated>
             <published>2024-05-25T20:28:56&#43;02:00</published>
             <author>
                     <name>EliVen</name>
