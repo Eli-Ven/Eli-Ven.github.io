@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-07-07T21:41:02&#43;08:00</updated>
+    <updated>2024-07-22T22:13:38&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -17,10 +17,51 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.121.2">Hugo</generator>
         <entry>
+            <title type="text">July22</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/july22/" />
+            <id>https://eli-ven.github.io/posts/fourction/july22/</id>
+            <updated>2024-07-22T22:13:10&#43;08:00</updated>
+            <published>2024-07-22T22:11:49&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">酒酣胸胆尚开张</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">我的名字</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/myname/" />
             <id>https://eli-ven.github.io/posts/myname/</id>
-            <updated>2024-07-07T21:37:21&#43;08:00</updated>
+            <updated>2024-07-07T21:43:29&#43;08:00</updated>
             <published>2024-07-07T21:32:10&#43;08:00</published>
             <author>
                     <name>EliVen</name>
@@ -609,7 +650,7 @@
             <title type="text">ChickenSoup</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/chickensoup/" />
             <id>https://eli-ven.github.io/posts/chickensoup/</id>
-            <updated>2023-04-15T23:41:43&#43;08:00</updated>
+            <updated>2024-07-09T21:12:01&#43;08:00</updated>
             <published>2023-04-15T23:34:56&#43;08:00</published>
             <author>
                     <name>EliVen</name>
