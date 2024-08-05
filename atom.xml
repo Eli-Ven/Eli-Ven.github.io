@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-08-05T10:42:30&#43;08:00</updated>
+    <updated>2024-08-05T10:43:56&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -20,14 +20,14 @@
             <title type="text">道德窥阴癖</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/ethicalproblem/" />
             <id>https://eli-ven.github.io/posts/ethicalproblem/</id>
-            <updated>2024-08-05T10:42:25&#43;08:00</updated>
+            <updated>2024-08-05T10:43:54&#43;08:00</updated>
             <published>2024-08-05T10:04:16&#43;08:00</published>
             <author>
                     <name>EliVen</name>
                     <uri>https://eli-ven.github.io/</uri>
                     <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">成就事业需要点燃房屋，做人则大可不必。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">成就事业需要将夜之城烧成灰，做人则大可不必。火炬只需分享光热，切不能引火上他人之身。</summary>
             
             
             
