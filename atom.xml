@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-08-30T18:48:17&#43;02:00</updated>
+    <updated>2024-08-30T18:49:55&#43;02:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.121.2">Hugo</generator>
+        <entry>
+            <title type="text">我对品味的认识</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/tastes/" />
+            <id>https://eli-ven.github.io/posts/tastes/</id>
+            <updated>2024-08-30T18:49:28&#43;02:00</updated>
+            <published>2024-08-30T10:11:01&#43;08:00</published>
+            <author>
+                    <name>EliVen</name>
+                    <uri>https://eli-ven.github.io/</uri>
+                    <email>chiaosoeli@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">品这个简体字恰好描述了我对品味的分类的结构。</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">道德窥阴癖</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/ethicalproblem/" />
@@ -543,31 +568,6 @@
                                 <category scheme="https://eli-ven.github.io/tags/skill/" term="skill" label="skill" />
                             
                         
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">我对品味的认识</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/tastes/" />
-            <id>https://eli-ven.github.io/posts/tastes/</id>
-            <updated>2024-08-30T18:46:36&#43;02:00</updated>
-            <published>2023-05-04T10:11:01&#43;08:00</published>
-            <author>
-                    <name>EliVen</name>
-                    <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">品这个简体字恰好描述了我对品味的分类的结构。</summary>
-            
-            
-            
-            
-            
-                
-                    
-                
                     
                 
             
