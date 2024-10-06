@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eli-ven.github.io/posts/</loc>
-    <lastmod>2024-08-30T18:49:28+02:00</lastmod>
+    <loc>https://eli-ven.github.io/posts/posthree/15girlsband/</loc>
+    <lastmod>2024-10-06T21:13:16+02:00</lastmod>
   </url><url>
-    <loc>https://eli-ven.github.io/posts/tastes/</loc>
-    <lastmod>2024-08-30T18:49:28+02:00</lastmod>
+    <loc>https://eli-ven.github.io/posts/</loc>
+    <lastmod>2024-10-06T21:13:16+02:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/</loc>
+    <lastmod>2024-10-06T21:13:16+02:00</lastmod>
+  </url><url>
+    <loc>https://eli-ven.github.io/posts/tastes/</loc>
     <lastmod>2024-08-30T18:49:28+02:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/posts/ethicalproblem/</loc>
@@ -70,9 +73,6 @@
   </url><url>
     <loc>https://eli-ven.github.io/posts/updateaya/</loc>
     <lastmod>2023-11-27T07:59:50+01:00</lastmod>
-  </url><url>
-    <loc>https://eli-ven.github.io/reborn/</loc>
-    <lastmod>2023-06-19T15:28:41+02:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/posts/transformerstory/</loc>
     <lastmod>2023-06-16T05:30:06+02:00</lastmod>
