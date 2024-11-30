@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Mixed Reality - Zhe XU</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-11-30T16:52:27&#43;01:00</updated>
+    <updated>2024-11-30T16:54:17&#43;01:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
@@ -20,13 +20,13 @@
             <title type="text">四格小说11.30</title>
             <link rel="alternate" type="text/html" href="/posts/fourction/fourction11_30/" />
             <id>/posts/fourction/fourction11_30/</id>
-            <updated>2024-11-30T16:51:38&#43;01:00</updated>
+            <updated>2024-11-30T16:54:12&#43;01:00</updated>
             <published>2024-11-30T16:43:38&#43;01:00</published>
             <author>
                     <name>Zhe XU</name>
                     <email>zhe.xu@ip-paris.fr</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">draft: false dropCap: false categories: [fourction] tags: [cloudream] summary: &amp;quot;&amp;quot; 范五九回到了家 皇院外发生的凶案令许多学生惶惶不安，很多住在校外的…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">范五九回到了家 皇院外发生的凶案令许多学生惶惶不安，很多住在校外的学生翘掉傍晚的课提前…</summary>
             
             
             
@@ -34,7 +34,23 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="/categories/fourction/" term="fourction" label="fourction" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/cloudream/" term="cloudream" label="cloudream" />
+                            
+                        
                     
                 
             
