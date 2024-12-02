@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>无复城</title>
-        <link>/</link>
+        <link>https://eli-ven.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.121.2 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 01 Dec 2024 21:28:05 &#43;0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 15:44:59 &#43;0100</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
         
             <item>
                 <title>11月游戏测评：《底特律：变人》</title>
-                <link>/posts/games_24_11/</link>
-                <guid isPermaLink="true">/posts/games_24_11/</guid>
+                <link>https://eli-ven.github.io/posts/games_24_11/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/games_24_11/</guid>
                 <pubDate>Sun, 01 Dec 2024 21:24:39 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -53,8 +53,8 @@
         
             <item>
                 <title>四格小说11.30</title>
-                <link>/posts/fourction/fourction11_30/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction11_30/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction11_30/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction11_30/</guid>
                 <pubDate>Sat, 30 Nov 2024 16:43:38 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -72,7 +72,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -82,7 +82,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -92,8 +92,8 @@
         
             <item>
                 <title>15块钱组建你的少女乐队</title>
-                <link>/posts/posthree/15girlsband/</link>
-                <guid isPermaLink="true">/posts/posthree/15girlsband/</guid>
+                <link>https://eli-ven.github.io/posts/posthree/15girlsband/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/posthree/15girlsband/</guid>
                 <pubDate>Sun, 06 Oct 2024 21:09:45 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -115,8 +115,8 @@
         
             <item>
                 <title>我对品味的认识</title>
-                <link>/posts/tastes/</link>
-                <guid isPermaLink="true">/posts/tastes/</guid>
+                <link>https://eli-ven.github.io/posts/tastes/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/tastes/</guid>
                 <pubDate>Fri, 30 Aug 2024 10:11:01 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -138,8 +138,8 @@
         
             <item>
                 <title>道德窥阴癖</title>
-                <link>/posts/ethicalproblem/</link>
-                <guid isPermaLink="true">/posts/ethicalproblem/</guid>
+                <link>https://eli-ven.github.io/posts/ethicalproblem/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/ethicalproblem/</guid>
                 <pubDate>Mon, 05 Aug 2024 10:04:16 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -161,8 +161,8 @@
         
             <item>
                 <title>四格小说7.22</title>
-                <link>/posts/fourction/july22/</link>
-                <guid isPermaLink="true">/posts/fourction/july22/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/july22/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/july22/</guid>
                 <pubDate>Mon, 22 Jul 2024 22:11:49 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -180,7 +180,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -190,7 +190,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -200,8 +200,8 @@
         
             <item>
                 <title>我的名字</title>
-                <link>/posts/myname/</link>
-                <guid isPermaLink="true">/posts/myname/</guid>
+                <link>https://eli-ven.github.io/posts/myname/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/myname/</guid>
                 <pubDate>Sun, 07 Jul 2024 21:32:10 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -223,8 +223,8 @@
         
             <item>
                 <title>6月游戏测评：植物大战僵尸，暖雪，潜水员戴夫</title>
-                <link>/posts/games_24_6/</link>
-                <guid isPermaLink="true">/posts/games_24_6/</guid>
+                <link>https://eli-ven.github.io/posts/games_24_6/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/games_24_6/</guid>
                 <pubDate>Mon, 01 Jul 2024 19:18:57 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -246,8 +246,8 @@
         
             <item>
                 <title>当我们谈论过去时，并不必须是回忆</title>
-                <link>/posts/something/</link>
-                <guid isPermaLink="true">/posts/something/</guid>
+                <link>https://eli-ven.github.io/posts/something/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/something/</guid>
                 <pubDate>Tue, 11 Jun 2024 23:28:50 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -269,8 +269,8 @@
         
             <item>
                 <title>5月游戏测评：火山的女儿，诺科，恶魔轮盘</title>
-                <link>/posts/games_24_5/</link>
-                <guid isPermaLink="true">/posts/games_24_5/</guid>
+                <link>https://eli-ven.github.io/posts/games_24_5/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/games_24_5/</guid>
                 <pubDate>Sat, 25 May 2024 20:28:56 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -292,8 +292,8 @@
         
             <item>
                 <title>4月游戏测评：冰汽时代，万智牌OTJ，文明六，酒保行动</title>
-                <link>/posts/games_24_4/</link>
-                <guid isPermaLink="true">/posts/games_24_4/</guid>
+                <link>https://eli-ven.github.io/posts/games_24_4/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/games_24_4/</guid>
                 <pubDate>Sun, 05 May 2024 17:54:46 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -315,8 +315,8 @@
         
             <item>
                 <title>3月游戏测评：两款肉鸽与两款赛博朋克</title>
-                <link>/posts/games_24_3/</link>
-                <guid isPermaLink="true">/posts/games_24_3/</guid>
+                <link>https://eli-ven.github.io/posts/games_24_3/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/games_24_3/</guid>
                 <pubDate>Sun, 05 May 2024 17:29:01 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -338,8 +338,8 @@
         
             <item>
                 <title>赛博朋克的建政预言</title>
-                <link>/posts/cyberpunk_international/</link>
-                <guid isPermaLink="true">/posts/cyberpunk_international/</guid>
+                <link>https://eli-ven.github.io/posts/cyberpunk_international/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpunk_international/</guid>
                 <pubDate>Mon, 19 Feb 2024 00:06:40 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -361,8 +361,8 @@
         
             <item>
                 <title>未来前瞻</title>
-                <link>/posts/cyberpreview/</link>
-                <guid isPermaLink="true">/posts/cyberpreview/</guid>
+                <link>https://eli-ven.github.io/posts/cyberpreview/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpreview/</guid>
                 <pubDate>Thu, 08 Feb 2024 02:48:54 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -384,8 +384,8 @@
         
             <item>
                 <title>新企划，赛博朋克：未来前瞻</title>
-                <link>/posts/cyberpunktrpg/</link>
-                <guid isPermaLink="true">/posts/cyberpunktrpg/</guid>
+                <link>https://eli-ven.github.io/posts/cyberpunktrpg/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpunktrpg/</guid>
                 <pubDate>Tue, 06 Feb 2024 06:46:07 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -407,8 +407,8 @@
         
             <item>
                 <title>8puzzle通解</title>
-                <link>/posts/8puzzle/</link>
-                <guid isPermaLink="true">/posts/8puzzle/</guid>
+                <link>https://eli-ven.github.io/posts/8puzzle/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/8puzzle/</guid>
                 <pubDate>Sat, 03 Feb 2024 11:22:33 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -430,8 +430,8 @@
         
             <item>
                 <title>windows powertoys快捷键设置的一些坑</title>
-                <link>/posts/shortcuts/</link>
-                <guid isPermaLink="true">/posts/shortcuts/</guid>
+                <link>https://eli-ven.github.io/posts/shortcuts/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/shortcuts/</guid>
                 <pubDate>Thu, 18 Jan 2024 17:32:39 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -453,8 +453,8 @@
         
             <item>
                 <title>钥匙牌的重启</title>
-                <link>/posts/keyrestart/</link>
-                <guid isPermaLink="true">/posts/keyrestart/</guid>
+                <link>https://eli-ven.github.io/posts/keyrestart/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/keyrestart/</guid>
                 <pubDate>Wed, 17 Jan 2024 15:01:22 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -476,8 +476,8 @@
         
             <item>
                 <title>环世界真是太好玩辣！</title>
-                <link>/posts/thisweek1/</link>
-                <guid isPermaLink="true">/posts/thisweek1/</guid>
+                <link>https://eli-ven.github.io/posts/thisweek1/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/thisweek1/</guid>
                 <pubDate>Sun, 19 Nov 2023 14:00:10 &#43;0100</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -499,8 +499,8 @@
         
             <item>
                 <title>被催的更</title>
-                <link>/posts/updateaya/</link>
-                <guid isPermaLink="true">/posts/updateaya/</guid>
+                <link>https://eli-ven.github.io/posts/updateaya/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/updateaya/</guid>
                 <pubDate>Fri, 22 Sep 2023 04:52:26 &#43;0200</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -522,8 +522,8 @@
         
             <item>
                 <title>Attention的寓言</title>
-                <link>/posts/transformerstory/</link>
-                <guid isPermaLink="true">/posts/transformerstory/</guid>
+                <link>https://eli-ven.github.io/posts/transformerstory/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/transformerstory/</guid>
                 <pubDate>Fri, 16 Jun 2023 12:24:14 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -543,7 +543,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/transformer/">transformer</category>
+                                    <category domain="https://eli-ven.github.io/tags/transformer/">transformer</category>
                                 
                             
                         
@@ -553,8 +553,8 @@
         
             <item>
                 <title>文字转录两三事</title>
-                <link>/posts/transcribe/</link>
-                <guid isPermaLink="true">/posts/transcribe/</guid>
+                <link>https://eli-ven.github.io/posts/transcribe/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/transcribe/</guid>
                 <pubDate>Fri, 02 Jun 2023 17:08:06 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -576,8 +576,8 @@
         
             <item>
                 <title>王国之泪不如荒野之息第一部</title>
-                <link>/posts/kingdomstear_negative/</link>
-                <guid isPermaLink="true">/posts/kingdomstear_negative/</guid>
+                <link>https://eli-ven.github.io/posts/kingdomstear_negative/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/kingdomstear_negative/</guid>
                 <pubDate>Mon, 22 May 2023 09:29:43 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -599,8 +599,8 @@
         
             <item>
                 <title>Steam Deck 更换SSD 操作指南</title>
-                <link>/posts/steamdeck/</link>
-                <guid isPermaLink="true">/posts/steamdeck/</guid>
+                <link>https://eli-ven.github.io/posts/steamdeck/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/steamdeck/</guid>
                 <pubDate>Thu, 04 May 2023 10:11:01 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -620,7 +620,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/skill/">skill</category>
+                                    <category domain="https://eli-ven.github.io/tags/skill/">skill</category>
                                 
                             
                         
@@ -630,8 +630,8 @@
         
             <item>
                 <title>四格小说4.26</title>
-                <link>/posts/fourction/fourction4_26/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction4_26/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction4_26/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction4_26/</guid>
                 <pubDate>Wed, 26 Apr 2023 13:46:26 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -649,7 +649,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -659,7 +659,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -669,8 +669,8 @@
         
             <item>
                 <title>四格小说4.22</title>
-                <link>/posts/fourction/fourction4_22/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction4_22/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction4_22/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction4_22/</guid>
                 <pubDate>Sat, 22 Apr 2023 17:09:28 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -688,7 +688,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -698,7 +698,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -708,8 +708,8 @@
         
             <item>
                 <title>四格小说4.21</title>
-                <link>/posts/fourction/fourction4_21/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction4_21/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction4_21/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction4_21/</guid>
                 <pubDate>Fri, 21 Apr 2023 08:01:56 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -727,7 +727,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -737,7 +737,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -747,8 +747,8 @@
         
             <item>
                 <title>ChickenSoup</title>
-                <link>/posts/chickensoup/</link>
-                <guid isPermaLink="true">/posts/chickensoup/</guid>
+                <link>https://eli-ven.github.io/posts/chickensoup/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/chickensoup/</guid>
                 <pubDate>Sat, 15 Apr 2023 23:34:56 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -770,8 +770,8 @@
         
             <item>
                 <title>四格小说4.9</title>
-                <link>/posts/fourction/fourction4_14/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction4_14/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction4_14/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction4_14/</guid>
                 <pubDate>Sun, 09 Apr 2023 22:20:23 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -789,7 +789,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -799,7 +799,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -809,8 +809,8 @@
         
             <item>
                 <title>四格小说3.06</title>
-                <link>/posts/fourction/fourction3_06/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction3_06/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction3_06/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction3_06/</guid>
                 <pubDate>Mon, 06 Mar 2023 13:36:38 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -828,7 +828,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -838,7 +838,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -848,8 +848,8 @@
         
             <item>
                 <title>四格小说3.05</title>
-                <link>/posts/fourction/fourction3_05/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction3_05/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction3_05/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction3_05/</guid>
                 <pubDate>Sun, 05 Mar 2023 20:54:15 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -867,7 +867,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -877,7 +877,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -887,8 +887,8 @@
         
             <item>
                 <title>四格小说3.03</title>
-                <link>/posts/fourction/fourction3_03/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction3_03/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction3_03/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction3_03/</guid>
                 <pubDate>Fri, 03 Mar 2023 20:29:14 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -906,7 +906,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -916,7 +916,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -926,8 +926,8 @@
         
             <item>
                 <title>四格小说3.02</title>
-                <link>/posts/fourction/fourction3_02/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction3_02/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction3_02/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction3_02/</guid>
                 <pubDate>Thu, 02 Mar 2023 17:32:07 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -945,7 +945,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -955,7 +955,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -965,8 +965,8 @@
         
             <item>
                 <title>四格小说3.01</title>
-                <link>/posts/fourction/fourction3_01/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction3_01/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction3_01/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction3_01/</guid>
                 <pubDate>Wed, 01 Mar 2023 10:16:28 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -984,7 +984,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -994,7 +994,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1004,8 +1004,8 @@
         
             <item>
                 <title>四格小说2.28</title>
-                <link>/posts/fourction/fourction2_28/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_28/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_28/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_28/</guid>
                 <pubDate>Tue, 28 Feb 2023 11:25:10 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1023,7 +1023,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1033,7 +1033,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1043,8 +1043,8 @@
         
             <item>
                 <title>四格小说2.27孙澈专场</title>
-                <link>/posts/fourction/fourction2_27/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_27/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_27/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_27/</guid>
                 <pubDate>Mon, 27 Feb 2023 16:16:52 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1062,7 +1062,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1072,7 +1072,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1082,8 +1082,8 @@
         
             <item>
                 <title>四格小说2.26</title>
-                <link>/posts/fourction/fourction2_26/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_26/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_26/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_26/</guid>
                 <pubDate>Sun, 26 Feb 2023 11:03:22 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1101,7 +1101,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1111,7 +1111,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1121,8 +1121,8 @@
         
             <item>
                 <title>四格小说2.25林月专场</title>
-                <link>/posts/fourction/fourction2_25/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_25/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_25/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_25/</guid>
                 <pubDate>Sat, 25 Feb 2023 09:34:01 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1140,7 +1140,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1150,7 +1150,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1160,8 +1160,8 @@
         
             <item>
                 <title>四格小说2.24树洞起源</title>
-                <link>/posts/fourction/fourction2_24/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_24/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_24/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_24/</guid>
                 <pubDate>Fri, 24 Feb 2023 13:48:27 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1179,7 +1179,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1189,7 +1189,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1199,8 +1199,8 @@
         
             <item>
                 <title>四格小说2.23林月专场</title>
-                <link>/posts/fourction/fourction2_23/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_23/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_23/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_23/</guid>
                 <pubDate>Thu, 23 Feb 2023 09:35:16 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1218,7 +1218,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1228,7 +1228,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1238,8 +1238,8 @@
         
             <item>
                 <title>四格小说2.22</title>
-                <link>/posts/fourction/fourction2_22/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_22/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_22/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_22/</guid>
                 <pubDate>Wed, 22 Feb 2023 11:55:42 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1257,7 +1257,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1267,7 +1267,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1277,8 +1277,8 @@
         
             <item>
                 <title>四格小说2.21</title>
-                <link>/posts/fourction/fourction2_21/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_21/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_21/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_21/</guid>
                 <pubDate>Tue, 21 Feb 2023 10:20:44 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1296,7 +1296,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1306,7 +1306,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1316,8 +1316,8 @@
         
             <item>
                 <title>四格小说2.20鸣响专场</title>
-                <link>/posts/fourction/fourction2_20/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_20/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_20/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_20/</guid>
                 <pubDate>Mon, 20 Feb 2023 14:12:29 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1335,7 +1335,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1345,7 +1345,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1355,8 +1355,8 @@
         
             <item>
                 <title>四格小说2.19孙宁专场</title>
-                <link>/posts/fourction/fourction2_19/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_19/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_19/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_19/</guid>
                 <pubDate>Sun, 19 Feb 2023 07:37:48 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1374,7 +1374,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1384,7 +1384,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1394,8 +1394,8 @@
         
             <item>
                 <title>四格小说2.18轻摇专场</title>
-                <link>/posts/fourction/fourction2_18/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_18/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_18/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_18/</guid>
                 <pubDate>Sat, 18 Feb 2023 07:52:46 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1413,7 +1413,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1423,7 +1423,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1433,8 +1433,8 @@
         
             <item>
                 <title>四格小说2.17鸣响专场</title>
-                <link>/posts/fourction/fourction2_17/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_17/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_17/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_17/</guid>
                 <pubDate>Fri, 17 Feb 2023 09:07:13 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1452,7 +1452,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1462,7 +1462,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1472,8 +1472,8 @@
         
             <item>
                 <title>四格小说2.16</title>
-                <link>/posts/fourction/fourction2_16/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_16/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_16/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_16/</guid>
                 <pubDate>Thu, 16 Feb 2023 09:07:13 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1491,7 +1491,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1501,7 +1501,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1511,8 +1511,8 @@
         
             <item>
                 <title>四格小说2.15</title>
-                <link>/posts/fourction/fourction2_15/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction2_15/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction2_15/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction2_15/</guid>
                 <pubDate>Wed, 15 Feb 2023 14:11:14 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1530,7 +1530,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1540,7 +1540,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1550,8 +1550,8 @@
         
             <item>
                 <title>四格小说 情人节篇</title>
-                <link>/posts/fourction/fourction_valentine/</link>
-                <guid isPermaLink="true">/posts/fourction/fourction_valentine/</guid>
+                <link>https://eli-ven.github.io/posts/fourction/fourction_valentine/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/fourction/fourction_valentine/</guid>
                 <pubDate>Tue, 14 Feb 2023 13:50:06 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1569,7 +1569,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/fourction/">fourction</category>
+                                    <category domain="https://eli-ven.github.io/categories/fourction/">fourction</category>
                                 
                             
                         
@@ -1579,7 +1579,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/cloudream/">cloudream</category>
+                                    <category domain="https://eli-ven.github.io/tags/cloudream/">cloudream</category>
                                 
                             
                         
@@ -1589,8 +1589,8 @@
         
             <item>
                 <title>随笔</title>
-                <link>/posts/jottings/jotting1/</link>
-                <guid isPermaLink="true">/posts/jottings/jotting1/</guid>
+                <link>https://eli-ven.github.io/posts/jottings/jotting1/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/jottings/jotting1/</guid>
                 <pubDate>Thu, 02 Feb 2023 15:04:46 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
@@ -1608,7 +1608,7 @@
                                 
                                 
                                 
-                                    <category domain="/categories/jottings/">jottings</category>
+                                    <category domain="https://eli-ven.github.io/categories/jottings/">jottings</category>
                                 
                             
                         
@@ -1618,7 +1618,7 @@
                                 
                                 
                                 
-                                    <category domain="/tags/reality/">reality</category>
+                                    <category domain="https://eli-ven.github.io/tags/reality/">reality</category>
                                 
                             
                         
@@ -1628,8 +1628,8 @@
         
             <item>
                 <title>Hello_world</title>
-                <link>/posts/hello_world/</link>
-                <guid isPermaLink="true">/posts/hello_world/</guid>
+                <link>https://eli-ven.github.io/posts/hello_world/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/hello_world/</guid>
                 <pubDate>Thu, 02 Feb 2023 13:05:33 &#43;0800</pubDate>
                 
                     <author>chiaosoeli@gmail.com (曲折)</author>
