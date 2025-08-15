@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-08-14T21:36:57-07:00</updated>
+    <updated>2025-08-14T21:40:33-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">无题 25.08.14</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/noname/noname_25_08_14/" />
             <id>https://eli-ven.github.io/posts/noname/noname_25_08_14/</id>
-            <updated>2025-08-14T21:36:26-07:00</updated>
+            <updated>2025-08-14T21:37:32-07:00</updated>
             <published>2025-08-14T01:32:57&#43;01:00</published>
             <author>
                     <name>曲折</name>
@@ -28,31 +28,6 @@
                     <email>chiaosoeli@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我或许到死都无从找到答案.</summary>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">无题 25.08.14</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/noname/noname_25_08_14.sync-conflict-20250815-123650-obkb3v7/" />
-            <id>https://eli-ven.github.io/posts/noname/noname_25_08_14.sync-conflict-20250815-123650-obkb3v7/</id>
-            <updated>2025-08-14T21:33:39-07:00</updated>
-            <published>2025-08-14T01:32:57&#43;01:00</published>
-            <author>
-                    <name>曲折</name>
-                    <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
             
             
             
