@@ -19,10 +19,38 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 12 Nov 2025 09:52:03 -0700</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 10:18:22 -0700</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
+        
+            <item>
+                <title>
+赛博朋克其一: 佛罗里达深侯公司</title>
+                <link>https://eli-ven.github.io/posts/cyber/floridadeepthrone/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyber/floridadeepthrone/</guid>
+                <pubDate>Wed, 12 Nov 2025 10:00:45 -0700</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        都来看我的最新力作!
+                        
+
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>
@@ -350,35 +378,6 @@ deepseek 使用笔记</title>
         
             <item>
                 <title>
-我的名字</title>
-                <link>https://eli-ven.github.io/posts/myname/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/myname/</guid>
-                <pubDate>Sun, 07 Jul 2024 21:32:10 &#43;0800</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                
-                <description>
-                        &lt;p&gt;我的名字是许轻山，是我爸爸取的名字。他说这是他在二十多岁就想好的名字。&lt;/p&gt;
-&lt;p&gt;难得有个有意思的姓，他不喜欢起一个和姓名没有关联的姓，因此早在构想“许诺”、“许久”之类的名字，但太常见而作罢。那天他因为女朋友的原因，不得不在两次调整时间后临时放弃与朋友约好的饭局。这种小事在他人生中发生过很多次，却总让他久久不能释怀，因为他从小就向往着古人的任侠潇洒，却半生不能如愿。&lt;/p&gt;
-                        
-
-                    </description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>
 6月游戏测评：植物大战僵尸，暖雪，潜水员戴夫</title>
                 <link>https://eli-ven.github.io/posts/games_24_6/</link>
                 <guid isPermaLink="true">https://eli-ven.github.io/posts/games_24_6/</guid>
@@ -529,8 +528,8 @@ deepseek 使用笔记</title>
             <item>
                 <title>
 赛博朋克的建政预言</title>
-                <link>https://eli-ven.github.io/posts/cyberpunk_international/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpunk_international/</guid>
+                <link>https://eli-ven.github.io/posts/cyber/cyberpunk_international/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyber/cyberpunk_international/</guid>
                 <pubDate>Mon, 19 Feb 2024 00:06:40 &#43;0100</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -557,8 +556,8 @@ deepseek 使用笔记</title>
             <item>
                 <title>
 未来前瞻</title>
-                <link>https://eli-ven.github.io/posts/cyberpreview/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpreview/</guid>
+                <link>https://eli-ven.github.io/posts/cyber/cyberpreview/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyber/cyberpreview/</guid>
                 <pubDate>Thu, 08 Feb 2024 02:48:54 &#43;0100</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -586,8 +585,8 @@ deepseek 使用笔记</title>
             <item>
                 <title>
 新企划，赛博朋克：未来前瞻</title>
-                <link>https://eli-ven.github.io/posts/cyberpunktrpg/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyberpunktrpg/</guid>
+                <link>https://eli-ven.github.io/posts/cyber/cyberpunktrpg/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyber/cyberpunktrpg/</guid>
                 <pubDate>Tue, 06 Feb 2024 06:46:07 &#43;0100</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -663,36 +662,6 @@ windows powertoys快捷键设置的一些坑</title>
                 <description>
                         &lt;p&gt;因为用mac的快捷键实在太爽，所以换windows的时候花了很多时间设置快捷键。&lt;/p&gt;
 &lt;p&gt;最突出的差别就是ctrl，command，和alt这三个键。这个相对好处理，用微软的powertoys交换ctrl和alt物理键映射就能解决不少差异。&lt;/p&gt;
-                        
-
-                    </description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>
-钥匙牌的重启</title>
-                <link>https://eli-ven.github.io/posts/keyrestart/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/keyrestart/</guid>
-                <pubDate>Wed, 17 Jan 2024 15:01:22 &#43;0100</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                
-                <description>
-                        &lt;blockquote&gt;
-&lt;p&gt;我现在感觉，所谓三大错觉之一「她喜欢我」，真不是男的普信，而是有的女的笑起来太好看让人不得不相信。
-——我&lt;/p&gt;
                         
 
                     </description>

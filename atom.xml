@@ -4,13 +4,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-11-12T09:52:03-07:00</updated>
+    <updated>2025-11-12T10:18:22-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
     
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
+        <entry>
+            <title type="text">
+赛博朋克其一: 佛罗里达深侯公司</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/floridadeepthrone/" />
+            <id>https://eli-ven.github.io/posts/cyber/floridadeepthrone/</id>
+            <updated>2025-11-12T10:15:54-07:00</updated>
+            <published>2025-11-12T10:00:45-07:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                都来看我的最新力作!
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">
 四格抄 25.5.15</title>
@@ -53,7 +81,7 @@
 写在面试之间</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/betweeninterviews/" />
             <id>https://eli-ven.github.io/posts/betweeninterviews/</id>
-            <updated>2025-05-02T14:10:07-07:00</updated>
+            <updated>2025-11-12T10:04:54-07:00</updated>
             <published>2025-02-01T01:32:57&#43;01:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -268,7 +296,7 @@ deepseek 使用笔记</title>
 道德窥阴癖</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/ethicalproblem/" />
             <id>https://eli-ven.github.io/posts/ethicalproblem/</id>
-            <updated>2024-08-04T19:44:30-07:00</updated>
+            <updated>2025-11-12T10:07:56-07:00</updated>
             <published>2024-08-05T10:04:16&#43;08:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -330,35 +358,6 @@ deepseek 使用笔记</title>
                                 <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">
-我的名字</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/myname/" />
-            <id>https://eli-ven.github.io/posts/myname/</id>
-            <updated>2024-07-07T06:43:29-07:00</updated>
-            <published>2024-07-07T21:32:10&#43;08:00</published>
-            <author>
-                    <uri>https://eli-ven.github.io/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
-                &lt;p&gt;我的名字是许轻山，是我爸爸取的名字。他说这是他在二十多岁就想好的名字。&lt;/p&gt;
-&lt;p&gt;难得有个有意思的姓，他不喜欢起一个和姓名没有关联的姓，因此早在构想“许诺”、“许久”之类的名字，但太常见而作罢。那天他因为女朋友的原因，不得不在两次调整时间后临时放弃与朋友约好的饭局。这种小事在他人生中发生过很多次，却总让他久久不能释怀，因为他从小就向往着古人的任侠潇洒，却半生不能如愿。&lt;/p&gt;
-                
-
-            </summary>
-            
-            
-            
-            
-            
-                
-                    
-                
                     
                 
             
@@ -516,8 +515,8 @@ deepseek 使用笔记</title>
         <entry>
             <title type="text">
 赛博朋克的建政预言</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpunk_international/" />
-            <id>https://eli-ven.github.io/posts/cyberpunk_international/</id>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cyberpunk_international/" />
+            <id>https://eli-ven.github.io/posts/cyber/cyberpunk_international/</id>
             <updated>2024-02-18T16:07:21-07:00</updated>
             <published>2024-02-19T00:06:40&#43;01:00</published>
             <author>
@@ -544,8 +543,8 @@ deepseek 使用笔记</title>
         <entry>
             <title type="text">
 未来前瞻</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpreview/" />
-            <id>https://eli-ven.github.io/posts/cyberpreview/</id>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cyberpreview/" />
+            <id>https://eli-ven.github.io/posts/cyber/cyberpreview/</id>
             <updated>2024-02-09T04:24:17-07:00</updated>
             <published>2024-02-08T02:48:54&#43;01:00</published>
             <author>
@@ -573,8 +572,8 @@ deepseek 使用笔记</title>
         <entry>
             <title type="text">
 新企划，赛博朋克：未来前瞻</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpunktrpg/" />
-            <id>https://eli-ven.github.io/posts/cyberpunktrpg/</id>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cyberpunktrpg/" />
+            <id>https://eli-ven.github.io/posts/cyber/cyberpunktrpg/</id>
             <updated>2024-02-05T22:49:57-07:00</updated>
             <published>2024-02-06T06:46:07&#43;01:00</published>
             <author>
@@ -668,36 +667,6 @@ windows powertoys快捷键设置的一些坑</title>
     
         <entry>
             <title type="text">
-钥匙牌的重启</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/keyrestart/" />
-            <id>https://eli-ven.github.io/posts/keyrestart/</id>
-            <updated>2024-01-17T07:10:59-07:00</updated>
-            <published>2024-01-17T15:01:22&#43;01:00</published>
-            <author>
-                    <uri>https://eli-ven.github.io/</uri>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
-                &lt;blockquote&gt;
-&lt;p&gt;我现在感觉，所谓三大错觉之一「她喜欢我」，真不是男的普信，而是有的女的笑起来太好看让人不得不相信。
-——我&lt;/p&gt;
-                
-
-            </summary>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">
 环世界真是太好玩辣！</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/thisweek1/" />
             <id>https://eli-ven.github.io/posts/thisweek1/</id>
@@ -730,7 +699,7 @@ windows powertoys快捷键设置的一些坑</title>
 被催的更</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/updateaya/" />
             <id>https://eli-ven.github.io/posts/updateaya/</id>
-            <updated>2023-11-26T23:59:50-07:00</updated>
+            <updated>2025-11-12T10:12:48-07:00</updated>
             <published>2023-09-22T04:52:26&#43;02:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -822,7 +791,7 @@ Attention的寓言</title>
 王国之泪不如荒野之息第一部</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/kingdomstear_negative/" />
             <id>https://eli-ven.github.io/posts/kingdomstear_negative/</id>
-            <updated>2023-05-21T18:35:06-07:00</updated>
+            <updated>2025-11-12T10:12:52-07:00</updated>
             <published>2023-05-22T09:29:43&#43;08:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
