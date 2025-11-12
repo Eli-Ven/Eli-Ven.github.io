@@ -4,55 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-08-14T21:40:33-07:00</updated>
+    <updated>2025-11-12T09:52:03-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
-    <author>
-            <name>曲折</name>
-            <uri>https://eli-ven.github.io/</uri>
-            
-                <email>chiaosoeli@gmail.com</email>
-            </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.121.2">Hugo</generator>
-        <entry>
-            <title type="text">无题 25.08.14</title>
-            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/noname/noname_25_08_14/" />
-            <id>https://eli-ven.github.io/posts/noname/noname_25_08_14/</id>
-            <updated>2025-08-14T21:37:32-07:00</updated>
-            <published>2025-08-14T01:32:57&#43;01:00</published>
-            <author>
-                    <name>曲折</name>
-                    <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我或许到死都无从找到答案.</summary>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
     
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
         <entry>
-            <title type="text">四格抄 25.5.15</title>
+            <title type="text">
+四格抄 25.5.15</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction250515/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction250515/</id>
             <updated>2025-05-15T15:20:03-07:00</updated>
             <published>2025-05-15T23:14:00&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">纪悠悠对李和的采访 纪悠悠：“作为皇院北嘉德留学生联合会会长，你对最近一次北嘉德学生私…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h2 id=&#34;纪悠悠对李和的采访&#34;&gt;纪悠悠对李和的采访&lt;/h2&gt;
+&lt;p&gt;纪悠悠：“作为皇院北嘉德留学生联合会会长，你对最近一次北嘉德学生私斗一事有什么看法呢？”&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -64,7 +38,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -75,17 +49,20 @@
         </entry>
     
         <entry>
-            <title type="text">写在面试之间</title>
+            <title type="text">
+写在面试之间</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/betweeninterviews/" />
             <id>https://eli-ven.github.io/posts/betweeninterviews/</id>
             <updated>2025-05-02T14:10:07-07:00</updated>
             <published>2025-02-01T01:32:57&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">花发多风雨，人生足别离。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                花发多风雨，人生足别离。
+                
+
+            </summary>
             
             
             
@@ -100,17 +77,22 @@
         </entry>
     
         <entry>
-            <title type="text">deepseek 使用笔记</title>
+            <title type="text">
+deepseek 使用笔记</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/ds1/" />
             <id>https://eli-ven.github.io/posts/ds1/</id>
             <updated>2025-01-28T01:17:55-07:00</updated>
             <published>2025-01-28T09:17:24&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">记录一些deepseek使用体验，下文简称ds。 关于写作 如果你啥都不想，它写的飞快，…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;记录一些deepseek使用体验，下文简称ds。&lt;/p&gt;
+&lt;h1 id=&#34;关于写作&#34;&gt;关于写作&lt;/h1&gt;
+&lt;p&gt;如果你啥都不想，它写的飞快，如果你想的很简单，它写的很好，如果你想的复杂一点，它就直接稀烂。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -125,17 +107,21 @@
         </entry>
     
         <entry>
-            <title type="text">评论两则</title>
+            <title type="text">
+评论两则</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/posthree/2comments/" />
             <id>https://eli-ven.github.io/posts/posthree/2comments/</id>
             <updated>2024-12-18T02:49:05-07:00</updated>
             <published>2024-12-18T10:47:51&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;&lt;img src=&#34;https://eli-ven.github.io/comments/241218-1.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://eli-ven.github.io/comments/241218-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -150,17 +136,20 @@
         </entry>
     
         <entry>
-            <title type="text">11月游戏测评：漫长的11月</title>
+            <title type="text">
+11月游戏测评：漫长的11月</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_11/" />
             <id>https://eli-ven.github.io/posts/games_24_11/</id>
             <updated>2024-12-02T08:03:18-07:00</updated>
             <published>2024-12-01T21:24:39&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">更新了更多</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                更新了更多
+                
+
+            </summary>
             
             
             
@@ -175,17 +164,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说11.30</title>
+            <title type="text">
+四格小说11.30</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction11_30/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction11_30/</id>
             <updated>2024-11-30T09:00:30-07:00</updated>
             <published>2024-11-30T16:43:38&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">恍如隔日</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                恍如隔日
+                
+
+            </summary>
             
             
             
@@ -197,7 +189,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -207,7 +199,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -216,17 +208,20 @@
         </entry>
     
         <entry>
-            <title type="text">15块钱组建你的少女乐队</title>
+            <title type="text">
+15块钱组建你的少女乐队</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/posthree/15girlsband/" />
             <id>https://eli-ven.github.io/posts/posthree/15girlsband/</id>
             <updated>2024-10-06T12:16:16-07:00</updated>
             <published>2024-10-06T21:09:45&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">少壮不努力，贴吧组乐队</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                少壮不努力，贴吧组乐队
+                
+
+            </summary>
             
             
             
@@ -241,17 +236,20 @@
         </entry>
     
         <entry>
-            <title type="text">我对品味的认识</title>
+            <title type="text">
+我对品味的认识</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/tastes/" />
             <id>https://eli-ven.github.io/posts/tastes/</id>
             <updated>2024-08-30T09:49:28-07:00</updated>
             <published>2024-08-30T10:11:01&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">品这个简体字恰好描述了我对品味的分类的结构。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                品这个简体字恰好描述了我对品味的分类的结构。
+                
+
+            </summary>
             
             
             
@@ -266,17 +264,20 @@
         </entry>
     
         <entry>
-            <title type="text">道德窥阴癖</title>
+            <title type="text">
+道德窥阴癖</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/ethicalproblem/" />
             <id>https://eli-ven.github.io/posts/ethicalproblem/</id>
             <updated>2024-08-04T19:44:30-07:00</updated>
             <published>2024-08-05T10:04:16&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">成就事业需要将夜之城烧成灰，做人则大可不必。火炬只需分享光热，切不能引火上他人之身。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                成就事业需要将夜之城烧成灰，做人则大可不必。火炬只需分享光热，切不能引火上他人之身。
+                
+
+            </summary>
             
             
             
@@ -291,17 +292,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说7.22</title>
+            <title type="text">
+四格小说7.22</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/july22/" />
             <id>https://eli-ven.github.io/posts/fourction/july22/</id>
             <updated>2024-07-22T07:22:23-07:00</updated>
             <published>2024-07-22T22:11:49&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">酒酣胸胆尚开张</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                酒酣胸胆尚开张
+                
+
+            </summary>
             
             
             
@@ -313,7 +317,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -323,7 +327,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -332,17 +336,21 @@
         </entry>
     
         <entry>
-            <title type="text">我的名字</title>
+            <title type="text">
+我的名字</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/myname/" />
             <id>https://eli-ven.github.io/posts/myname/</id>
             <updated>2024-07-07T06:43:29-07:00</updated>
             <published>2024-07-07T21:32:10&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我的名字是许轻山，是我爸爸取的名字。他说这是他在二十多岁就想好的名字。 难得有个有意思…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;我的名字是许轻山，是我爸爸取的名字。他说这是他在二十多岁就想好的名字。&lt;/p&gt;
+&lt;p&gt;难得有个有意思的姓，他不喜欢起一个和姓名没有关联的姓，因此早在构想“许诺”、“许久”之类的名字，但太常见而作罢。那天他因为女朋友的原因，不得不在两次调整时间后临时放弃与朋友约好的饭局。这种小事在他人生中发生过很多次，却总让他久久不能释怀，因为他从小就向往着古人的任侠潇洒，却半生不能如愿。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -357,17 +365,22 @@
         </entry>
     
         <entry>
-            <title type="text">6月游戏测评：植物大战僵尸，暖雪，潜水员戴夫</title>
+            <title type="text">
+6月游戏测评：植物大战僵尸，暖雪，潜水员戴夫</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_6/" />
             <id>https://eli-ven.github.io/posts/games_24_6/</id>
             <updated>2024-07-01T10:36:18-07:00</updated>
             <published>2024-07-01T19:18:57&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">看到文明七的预告，于是决定在文明七发售之前通过一次文明六的神难度。 成功了。 还顺带把文…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;看到文明七的预告，于是决定在文明七发售之前通过一次文明六的神难度。&lt;/p&gt;
+&lt;p&gt;成功了。&lt;/p&gt;
+&lt;p&gt;还顺带把文明五下载回来了。我还挺喜欢五的风格的，但因为太久没玩，复健失败了。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -382,17 +395,20 @@
         </entry>
     
         <entry>
-            <title type="text">当我们谈论过去时，并不必须是回忆</title>
+            <title type="text">
+当我们谈论过去时，并不必须是回忆</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/something/" />
             <id>https://eli-ven.github.io/posts/something/</id>
             <updated>2024-06-11T14:31:35-07:00</updated>
             <published>2024-06-11T23:28:50&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">翻到了大约是五年前写的文字。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                翻到了大约是五年前写的文字。
+                
+
+            </summary>
             
             
             
@@ -407,17 +423,23 @@
         </entry>
     
         <entry>
-            <title type="text">5月游戏测评：火山的女儿，诺科，恶魔轮盘</title>
+            <title type="text">
+5月游戏测评：火山的女儿，诺科，恶魔轮盘</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_5/" />
             <id>https://eli-ven.github.io/posts/games_24_5/</id>
             <updated>2024-07-01T10:19:57-07:00</updated>
             <published>2024-05-25T20:28:56&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">今天早上写了首诗： 银汉空悬喉间月，金杯倾倒腹中天。 织女踌躇疑无渡，侧身东望常咨嗟。 老…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;今天早上写了首诗：&lt;/p&gt;
+&lt;p&gt;银汉空悬喉间月，金杯倾倒腹中天。&lt;/p&gt;
+&lt;p&gt;织女踌躇疑无渡，侧身东望常咨嗟。&lt;/p&gt;
+&lt;p&gt;老规矩，不玩EA，黑帝斯2等正式版。目前看起来，黑帝斯2的美术较之一代有所不如。据说是一代的美术沉迷博德之门3所以换了个美术，听起来还算合理。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -432,17 +454,22 @@
         </entry>
     
         <entry>
-            <title type="text">4月游戏测评：冰汽时代，万智牌OTJ，文明六，酒保行动</title>
+            <title type="text">
+4月游戏测评：冰汽时代，万智牌OTJ，文明六，酒保行动</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_4/" />
             <id>https://eli-ven.github.io/posts/games_24_4/</id>
             <updated>2024-06-09T12:49:11-07:00</updated>
             <published>2024-05-05T17:54:46&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">冰汽时代：3.5 因为冰汽时代2就要出了，所以重玩了一遍冰汽时代。 11bits是我非常…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h1 id=&#34;冰汽时代35&#34;&gt;冰汽时代：3.5&lt;/h1&gt;
+&lt;p&gt;因为冰汽时代2就要出了，所以重玩了一遍冰汽时代。&lt;/p&gt;
+&lt;p&gt;11bits是我非常喜欢的一家工作室，我得说波兰人是真的会做游戏。和11bits旗下的TWOM不同，冰汽时代在中国出名是因为玩家为了拯救人民而越过界限后遭受的道德诘问。但实际游玩的时候，我完全没越过界限，所以对这点没有什么抵触。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -457,17 +484,22 @@
         </entry>
     
         <entry>
-            <title type="text">3月游戏测评：两款肉鸽与两款赛博朋克</title>
+            <title type="text">
+3月游戏测评：两款肉鸽与两款赛博朋克</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/games_24_3/" />
             <id>https://eli-ven.github.io/posts/games_24_3/</id>
             <updated>2024-05-05T08:48:58-07:00</updated>
             <published>2024-05-05T17:29:01&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我一直以为我发过3月游戏测评了……看了眼博客发现居然没发。 现在补发。 游戏测评系列不会…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;我一直以为我发过3月游戏测评了……看了眼博客发现居然没发。&lt;/p&gt;
+&lt;p&gt;现在补发。&lt;/p&gt;
+&lt;p&gt;游戏测评系列不会认真做，仅供参考。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -482,17 +514,20 @@
         </entry>
     
         <entry>
-            <title type="text">赛博朋克的建政预言</title>
+            <title type="text">
+赛博朋克的建政预言</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpunk_international/" />
             <id>https://eli-ven.github.io/posts/cyberpunk_international/</id>
             <updated>2024-02-18T16:07:21-07:00</updated>
             <published>2024-02-19T00:06:40&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">这就是赛博朋克！</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                这就是赛博朋克！
+                
+
+            </summary>
             
             
             
@@ -507,17 +542,21 @@
         </entry>
     
         <entry>
-            <title type="text">未来前瞻</title>
+            <title type="text">
+未来前瞻</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpreview/" />
             <id>https://eli-ven.github.io/posts/cyberpreview/</id>
             <updated>2024-02-09T04:24:17-07:00</updated>
             <published>2024-02-08T02:48:54&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">深夜稍微深入想了下，之前对赛博朋克：未来前瞻的期许还是有些不切实际了。 那时候想的是，…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;深夜稍微深入想了下，之前对赛博朋克：未来前瞻的期许还是有些不切实际了。&lt;/p&gt;
+&lt;p&gt;那时候想的是，在赛博朋克2020和2077的幻想的基础上，描述一种极有可能成真的百年内的赛博朋克的未来。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -532,17 +571,28 @@
         </entry>
     
         <entry>
-            <title type="text">新企划，赛博朋克：未来前瞻</title>
+            <title type="text">
+新企划，赛博朋克：未来前瞻</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyberpunktrpg/" />
             <id>https://eli-ven.github.io/posts/cyberpunktrpg/</id>
             <updated>2024-02-05T22:49:57-07:00</updated>
             <published>2024-02-06T06:46:07&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">这是对我们将能见到的未来的可能性的观测。 动机 深感现代人需要一款容易上手的TRPG世界…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;blockquote&gt;
+&lt;p&gt;这是对我们将能见到的未来的可能性的观测。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id=&#34;动机&#34;&gt;动机&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;深感现代人需要一款容易上手的TRPG世界观，而当下流行的COC已经不满足中国人的需要了。为此想做一个属于「潘嘉」的，纯正的未来科技风格世界观来跑团，并有强烈的赛博朋克风格元素。&lt;/li&gt;
+&lt;li&gt;玩了赛博朋克2077，赛博朋克中经典的网络潜袭和义体对抗放在一起非常有法师和战士的感觉，在科幻的外表下格外有魅力。所以想用赛博朋克世界观来跑团。&lt;/li&gt;
+&lt;li&gt;深受2022年至今AI技术发展的震撼，想进行一种预言式的探索和畅想——没准对我的学术也能有一点帮助呢。尤其是在上了一节《科幻小说导论》之后。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;目前的参考材料：&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -557,17 +607,23 @@
         </entry>
     
         <entry>
-            <title type="text">8puzzle通解</title>
+            <title type="text">
+8puzzle通解</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/8puzzle/" />
             <id>https://eli-ven.github.io/posts/8puzzle/</id>
             <updated>2024-02-03T03:25:10-07:00</updated>
             <published>2024-02-03T11:22:33&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我比较乐观。 今天突然有了兴趣，好好琢磨了一下8-puzzle的通解。 8-puzzle…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;blockquote&gt;
+&lt;p&gt;我比较乐观。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;今天突然有了兴趣，好好琢磨了一下8-puzzle的通解。&lt;/p&gt;
+&lt;p&gt;8-puzzle是在一个九宫格里填入8个乱序拼图，通过移动拼图来将其重新排序的游戏。小时候经常在爸妈手机上玩，相当于windowsxp上的扫雷。那是我第一次认识蒙娜丽莎。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -582,17 +638,21 @@
         </entry>
     
         <entry>
-            <title type="text">windows powertoys快捷键设置的一些坑</title>
+            <title type="text">
+windows powertoys快捷键设置的一些坑</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/shortcuts/" />
             <id>https://eli-ven.github.io/posts/shortcuts/</id>
             <updated>2024-01-18T09:56:40-07:00</updated>
             <published>2024-01-18T17:32:39&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">因为用mac的快捷键实在太爽，所以换windows的时候花了很多时间设置快捷键。 最突…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;因为用mac的快捷键实在太爽，所以换windows的时候花了很多时间设置快捷键。&lt;/p&gt;
+&lt;p&gt;最突出的差别就是ctrl，command，和alt这三个键。这个相对好处理，用微软的powertoys交换ctrl和alt物理键映射就能解决不少差异。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -607,17 +667,22 @@
         </entry>
     
         <entry>
-            <title type="text">钥匙牌的重启</title>
+            <title type="text">
+钥匙牌的重启</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/keyrestart/" />
             <id>https://eli-ven.github.io/posts/keyrestart/</id>
             <updated>2024-01-17T07:10:59-07:00</updated>
             <published>2024-01-17T15:01:22&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我现在感觉，所谓三大错觉之一「她喜欢我」，真不是男的普信，而是有的女的笑起来太好看让…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;blockquote&gt;
+&lt;p&gt;我现在感觉，所谓三大错觉之一「她喜欢我」，真不是男的普信，而是有的女的笑起来太好看让人不得不相信。
+——我&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -632,17 +697,21 @@
         </entry>
     
         <entry>
-            <title type="text">环世界真是太好玩辣！</title>
+            <title type="text">
+环世界真是太好玩辣！</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/thisweek1/" />
             <id>https://eli-ven.github.io/posts/thisweek1/</id>
             <updated>2023-11-19T06:45:53-07:00</updated>
             <published>2023-11-19T14:00:10&#43;01:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">如果把我这周的作息打成表格，那就是一个破破烂烂的魔方，打乱以后又换了角，再扔地上踩到…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;blockquote&gt;
+&lt;p&gt;如果把我这周的作息打成表格，那就是一个破破烂烂的魔方，打乱以后又换了角，再扔地上踩到变形，磕磕碰碰沙沙拉拉的。能转已经是奇迹了，就别在意颜色规不规律了。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -657,17 +726,20 @@
         </entry>
     
         <entry>
-            <title type="text">被催的更</title>
+            <title type="text">
+被催的更</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/updateaya/" />
             <id>https://eli-ven.github.io/posts/updateaya/</id>
             <updated>2023-11-26T23:59:50-07:00</updated>
             <published>2023-09-22T04:52:26&#43;02:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">如fox所愿。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                如fox所愿。
+                
+
+            </summary>
             
             
             
@@ -682,17 +754,20 @@
         </entry>
     
         <entry>
-            <title type="text">Attention的寓言</title>
+            <title type="text">
+Attention的寓言</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/transformerstory/" />
             <id>https://eli-ven.github.io/posts/transformerstory/</id>
             <updated>2023-06-15T20:30:06-07:00</updated>
             <published>2023-06-16T12:24:14&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">一个解释self-attention机制的寓言故事。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                一个解释self-attention机制的寓言故事。
+                
+
+            </summary>
             
             
             
@@ -706,7 +781,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/transformer/" term="transformer" label="transformer" />
+                                <category scheme="https://eli-ven.github.io/tags/transformer/" term="Transformer" label="Transformer" />
                             
                         
                     
@@ -715,17 +790,20 @@
         </entry>
     
         <entry>
-            <title type="text">文字转录两三事</title>
+            <title type="text">
+文字转录两三事</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/transcribe/" />
             <id>https://eli-ven.github.io/posts/transcribe/</id>
             <updated>2023-06-07T19:05:14-07:00</updated>
             <published>2023-06-02T17:08:06&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我摊牌了，我吃书了：我逐渐忍不住讲一些日常生活了</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                我摊牌了，我吃书了：我逐渐忍不住讲一些日常生活了
+                
+
+            </summary>
             
             
             
@@ -740,17 +818,20 @@
         </entry>
     
         <entry>
-            <title type="text">王国之泪不如荒野之息第一部</title>
+            <title type="text">
+王国之泪不如荒野之息第一部</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/kingdomstear_negative/" />
             <id>https://eli-ven.github.io/posts/kingdomstear_negative/</id>
             <updated>2023-05-21T18:35:06-07:00</updated>
             <published>2023-05-22T09:29:43&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">对王国之泪的一些负面评价。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                对王国之泪的一些负面评价。
+                
+
+            </summary>
             
             
             
@@ -765,17 +846,20 @@
         </entry>
     
         <entry>
-            <title type="text">Steam Deck 更换SSD 操作指南</title>
+            <title type="text">
+Steam Deck 更换SSD 操作指南</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/steamdeck/" />
             <id>https://eli-ven.github.io/posts/steamdeck/</id>
             <updated>2023-05-10T21:24:42-07:00</updated>
             <published>2023-05-04T10:11:01&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">记录一些踩过的坑，应该是一个比较完整的操作指南。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                记录一些踩过的坑，应该是一个比较完整的操作指南。
+                
+
+            </summary>
             
             
             
@@ -789,7 +873,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/skill/" term="skill" label="skill" />
+                                <category scheme="https://eli-ven.github.io/tags/skill/" term="Skill" label="Skill" />
                             
                         
                     
@@ -798,17 +882,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说4.26</title>
+            <title type="text">
+四格小说4.26</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_26/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_26/</id>
             <updated>2023-04-25T22:46:39-07:00</updated>
             <published>2023-04-26T13:46:26&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">牛，都可以牛。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                牛，都可以牛。
+                
+
+            </summary>
             
             
             
@@ -820,7 +907,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -830,7 +917,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -839,17 +926,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说4.22</title>
+            <title type="text">
+四格小说4.22</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_22/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_22/</id>
             <updated>2023-04-22T07:23:49-07:00</updated>
             <published>2023-04-22T17:09:28&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">不曾有过暴力，不曾有过争骂，仅仅是被灌注了喜悦与悲伤</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                不曾有过暴力，不曾有过争骂，仅仅是被灌注了喜悦与悲伤
+                
+
+            </summary>
             
             
             
@@ -861,7 +951,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -871,7 +961,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -880,17 +970,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说4.21</title>
+            <title type="text">
+四格小说4.21</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_21/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_21/</id>
             <updated>2023-04-20T17:04:00-07:00</updated>
             <published>2023-04-21T08:01:56&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我梦见自己唱着歌。我本不容许，但却做了这样的梦。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                我梦见自己唱着歌。我本不容许，但却做了这样的梦。
+                
+
+            </summary>
             
             
             
@@ -902,7 +995,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -912,7 +1005,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -921,17 +1014,20 @@
         </entry>
     
         <entry>
-            <title type="text">ChickenSoup</title>
+            <title type="text">
+ChickenSoup</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/chickensoup/" />
             <id>https://eli-ven.github.io/posts/chickensoup/</id>
             <updated>2024-07-09T06:12:01-07:00</updated>
             <published>2023-04-15T23:34:56&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">啊哈哈哈，鸡汤来喽</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                啊哈哈哈，鸡汤来喽
+                
+
+            </summary>
             
             
             
@@ -946,17 +1042,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说4.9</title>
+            <title type="text">
+四格小说4.9</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction4_14/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction4_14/</id>
             <updated>2023-04-14T07:21:23-07:00</updated>
             <published>2023-04-09T22:20:23&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我都在梦里了还不能试一下？</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                我都在梦里了还不能试一下？
+                
+
+            </summary>
             
             
             
@@ -968,7 +1067,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -978,7 +1077,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -987,17 +1086,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说3.06</title>
+            <title type="text">
+四格小说3.06</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_06/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_06/</id>
             <updated>2024-07-22T07:21:04-07:00</updated>
             <published>2023-03-06T13:36:38&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">无聊，我要看到血流成河</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                无聊，我要看到血流成河
+                
+
+            </summary>
             
             
             
@@ -1009,7 +1111,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1019,7 +1121,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1028,17 +1130,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说3.05</title>
+            <title type="text">
+四格小说3.05</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_05/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_05/</id>
             <updated>2024-11-30T09:33:25-07:00</updated>
             <published>2023-03-05T20:54:15&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">住手啊！这个长度已经不能称之为四格小说了！</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                住手啊！这个长度已经不能称之为四格小说了！
+                
+
+            </summary>
             
             
             
@@ -1050,7 +1155,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1060,7 +1165,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1069,17 +1174,22 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说3.03</title>
+            <title type="text">
+四格小说3.03</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_03/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_03/</id>
             <updated>2023-03-03T05:29:23-07:00</updated>
             <published>2023-03-03T20:29:14&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">范五九与宁轻摇 范五九：『宁大师收我做学生吧！我真的很仰慕你的画呀！』 宁轻摇早在开学第…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h3 id=&#34;范五九与宁轻摇&#34;&gt;范五九与宁轻摇&lt;/h3&gt;
+&lt;p&gt;范五九：『宁大师收我做学生吧！我真的很仰慕你的画呀！』&lt;/p&gt;
+&lt;p&gt;宁轻摇早在开学第二周就从树洞知道有个身材极好、整天戴面纱穿黑衣的学妹，只是没想到有一天自己会被她堵在画室门口。明明隔着面纱看不到范五九的表情，她的语气也足够诚恳，但那作为女性来说略显低沉的声音和站的笔直不摇不晃的身体都让宁轻摇觉得范五九此刻的表情应该是非常平静的。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -1091,7 +1201,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1101,7 +1211,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1110,17 +1220,21 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说3.02</title>
+            <title type="text">
+四格小说3.02</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_02/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_02/</id>
             <updated>2023-03-02T02:32:18-07:00</updated>
             <published>2023-03-02T17:32:07&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">第二场雪 这天是周末，上京又开始下雪。等下午雪停，方鸣便用上新学会的飞天扫帚术，就骑着…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h3 id=&#34;第二场雪&#34;&gt;第二场雪&lt;/h3&gt;
+&lt;p&gt;这天是周末，上京又开始下雪。等下午雪停，方鸣便用上新学会的飞天扫帚术，就骑着扫帚离开了皇院。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -1132,7 +1246,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1142,7 +1256,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1151,17 +1265,21 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说3.01</title>
+            <title type="text">
+四格小说3.01</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction3_01/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction3_01/</id>
             <updated>2023-02-28T19:18:34-07:00</updated>
             <published>2023-03-01T10:16:28&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">局势不妙 孙澈的母亲在开学前如此叮嘱女儿：『听说上京的富贵子弟们玩的都很乱，你可不要被…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h3 id=&#34;局势不妙&#34;&gt;局势不妙&lt;/h3&gt;
+&lt;p&gt;孙澈的母亲在开学前如此叮嘱女儿：『听说上京的富贵子弟们玩的都很乱，你可不要被那些人给骗了。尤其是那些女的，我听你表哥说她们就喜欢你这样长得英气的。你可别给我带回来一个女的啊！』&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -1173,7 +1291,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1183,7 +1301,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1192,17 +1310,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.28</title>
+            <title type="text">
+四格小说2.28</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_28/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_28/</id>
             <updated>2023-02-27T20:44:32-07:00</updated>
             <published>2023-02-28T11:25:10&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">之后应该就一天写一篇外加重置两篇，等重置完所有的就统一放上来。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                之后应该就一天写一篇外加重置两篇，等重置完所有的就统一放上来。
+                
+
+            </summary>
             
             
             
@@ -1214,7 +1335,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1224,7 +1345,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1233,17 +1354,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.27孙澈专场</title>
+            <title type="text">
+四格小说2.27孙澈专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_27/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_27/</id>
             <updated>2023-02-27T01:18:10-07:00</updated>
             <published>2023-02-27T16:16:52&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">一不小心又写了四段。下次必瓶颈。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                一不小心又写了四段。下次必瓶颈。
+                
+
+            </summary>
             
             
             
@@ -1255,7 +1379,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1265,7 +1389,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1274,17 +1398,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.26</title>
+            <title type="text">
+四格小说2.26</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_26/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_26/</id>
             <updated>2023-02-26T05:28:57-07:00</updated>
             <published>2023-02-26T11:03:22&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">这回真的瓶颈了，明天肯定只更一节。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                这回真的瓶颈了，明天肯定只更一节。
+                
+
+            </summary>
             
             
             
@@ -1296,7 +1423,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1306,7 +1433,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1315,17 +1442,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.25林月专场</title>
+            <title type="text">
+四格小说2.25林月专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_25/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_25/</id>
             <updated>2023-02-24T18:39:59-07:00</updated>
             <published>2023-02-25T09:34:01&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">鉴于我病情好转，之后应该改为一天只更一段了。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                鉴于我病情好转，之后应该改为一天只更一段了。
+                
+
+            </summary>
             
             
             
@@ -1337,7 +1467,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1347,7 +1477,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1356,17 +1486,21 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.24树洞起源</title>
+            <title type="text">
+四格小说2.24树洞起源</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_24/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_24/</id>
             <updated>2023-03-30T22:49:23-07:00</updated>
             <published>2023-02-24T13:48:27&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">树洞起源1 如果一个走在皇院里的大二学生告诉你皇院最受欢迎的建筑是白塔或者天人合一桥，…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h3 id=&#34;树洞起源1&#34;&gt;树洞起源1&lt;/h3&gt;
+&lt;p&gt;如果一个走在皇院里的大二学生告诉你皇院最受欢迎的建筑是白塔或者天人合一桥，你完全可以立即将他移交保安室。&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -1378,7 +1512,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1388,7 +1522,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1397,17 +1531,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.23林月专场</title>
+            <title type="text">
+四格小说2.23林月专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_23/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_23/</id>
             <updated>2023-02-26T06:17:51-07:00</updated>
             <published>2023-02-23T09:35:16&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">关关难过关关过</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                关关难过关关过
+                
+
+            </summary>
             
             
             
@@ -1419,7 +1556,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1429,7 +1566,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1438,17 +1575,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.22</title>
+            <title type="text">
+四格小说2.22</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_22/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_22/</id>
             <updated>2023-02-26T04:58:55-07:00</updated>
             <published>2023-02-22T11:55:42&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">病情好转，灵感枯竭</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                病情好转，灵感枯竭
+                
+
+            </summary>
             
             
             
@@ -1460,7 +1600,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1470,7 +1610,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1479,17 +1619,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.21</title>
+            <title type="text">
+四格小说2.21</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_21/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_21/</id>
             <updated>2023-02-20T19:21:31-07:00</updated>
             <published>2023-02-21T10:20:44&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">活人的事情怎么能叫鸽呢？</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                活人的事情怎么能叫鸽呢？
+                
+
+            </summary>
             
             
             
@@ -1501,7 +1644,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1511,7 +1654,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1520,17 +1663,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.20鸣响专场</title>
+            <title type="text">
+四格小说2.20鸣响专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_20/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_20/</id>
             <updated>2023-02-19T23:14:10-07:00</updated>
             <published>2023-02-20T14:12:29&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">对别人太好的人总是在心里对自己不太好的。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                对别人太好的人总是在心里对自己不太好的。
+                
+
+            </summary>
             
             
             
@@ -1542,7 +1688,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1552,7 +1698,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1561,17 +1707,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.19孙宁专场</title>
+            <title type="text">
+四格小说2.19孙宁专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_19/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_19/</id>
             <updated>2023-02-19T23:12:01-07:00</updated>
             <published>2023-02-19T07:37:48&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">孙彻最羡慕的人是乔瑟夫，他好像连落花都留得住。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                孙彻最羡慕的人是乔瑟夫，他好像连落花都留得住。
+                
+
+            </summary>
             
             
             
@@ -1583,7 +1732,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1593,7 +1742,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1602,17 +1751,24 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.18轻摇专场</title>
+            <title type="text">
+四格小说2.18轻摇专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_18/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_18/</id>
             <updated>2023-02-19T23:12:15-07:00</updated>
             <published>2023-02-18T07:52:46&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">宁轻摇的第一次出场 邓响尝试找一位画师画连环画。 『说起来宁轻摇是你真名吗？』 『怎么会有…</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h3 id=&#34;宁轻摇的第一次出场&#34;&gt;宁轻摇的第一次出场&lt;/h3&gt;
+&lt;p&gt;邓响尝试找一位画师画连环画。&lt;/p&gt;
+&lt;p&gt;『说起来宁轻摇是你真名吗？』&lt;/p&gt;
+&lt;p&gt;『怎么会有人拿真名约稿的。』&lt;/p&gt;
+&lt;p&gt;『我就说总不会所有小说都有一个姓宁的女角色。』&lt;/p&gt;
+                
+
+            </summary>
             
             
             
@@ -1624,7 +1780,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1634,7 +1790,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1643,17 +1799,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.17鸣响专场</title>
+            <title type="text">
+四格小说2.17鸣响专场</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_17/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_17/</id>
             <updated>2023-02-17T17:41:38-07:00</updated>
             <published>2023-02-17T09:07:13&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">更新了2.15的第二段和2.16的后两段，可以回去看一下。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                更新了2.15的第二段和2.16的后两段，可以回去看一下。
+                
+
+            </summary>
             
             
             
@@ -1665,7 +1824,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1675,7 +1834,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1684,17 +1843,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.16</title>
+            <title type="text">
+四格小说2.16</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_16/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_16/</id>
             <updated>2024-07-22T07:21:18-07:00</updated>
             <published>2023-02-16T09:07:13&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">把鸣彻响绝挪到未来了。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                把鸣彻响绝挪到未来了。
+                
+
+            </summary>
             
             
             
@@ -1706,7 +1868,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1716,7 +1878,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1725,17 +1887,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说2.15</title>
+            <title type="text">
+四格小说2.15</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction2_15/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction2_15/</id>
             <updated>2023-02-27T19:59:49-07:00</updated>
             <published>2023-02-15T14:11:14&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">我最近怎么这么高产。另外更新了页面下方的邮件订阅。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                我最近怎么这么高产。另外更新了页面下方的邮件订阅。
+                
+
+            </summary>
             
             
             
@@ -1747,7 +1912,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1757,7 +1922,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1766,17 +1931,20 @@
         </entry>
     
         <entry>
-            <title type="text">四格小说 情人节篇</title>
+            <title type="text">
+四格小说 情人节篇</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction_valentine/" />
             <id>https://eli-ven.github.io/posts/fourction/fourction_valentine/</id>
             <updated>2023-02-18T07:46:21-07:00</updated>
             <published>2023-02-14T13:50:06&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">情人节写点轻松愉快的。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                情人节写点轻松愉快的。
+                
+
+            </summary>
             
             
             
@@ -1788,7 +1956,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="fourction" label="fourction" />
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
                             
                         
                     
@@ -1798,7 +1966,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="cloudream" label="cloudream" />
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
                             
                         
                     
@@ -1807,17 +1975,20 @@
         </entry>
     
         <entry>
-            <title type="text">随笔</title>
+            <title type="text">
+随笔</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/jottings/jotting1/" />
             <id>https://eli-ven.github.io/posts/jottings/jotting1/</id>
             <updated>2023-04-22T07:46:09-07:00</updated>
             <published>2023-02-02T15:04:46&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">灯光落在海的箔上</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                灯光落在海的箔上
+                
+
+            </summary>
             
             
             
@@ -1829,7 +2000,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/categories/jottings/" term="jottings" label="jottings" />
+                                <category scheme="https://eli-ven.github.io/categories/jottings/" term="Jottings" label="Jottings" />
                             
                         
                     
@@ -1839,7 +2010,7 @@
                             
                             
                             
-                                <category scheme="https://eli-ven.github.io/tags/reality/" term="reality" label="reality" />
+                                <category scheme="https://eli-ven.github.io/tags/reality/" term="Reality" label="Reality" />
                             
                         
                     
@@ -1848,17 +2019,20 @@
         </entry>
     
         <entry>
-            <title type="text">Hello_world</title>
+            <title type="text">
+Hello_world</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/hello_world/" />
             <id>https://eli-ven.github.io/posts/hello_world/</id>
             <updated>2023-02-01T22:25:47-07:00</updated>
             <published>2023-02-02T13:05:33&#43;08:00</published>
             <author>
-                    <name>曲折</name>
                     <uri>https://eli-ven.github.io/</uri>
-                    <email>chiaosoeli@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                
+                
+
+            </summary>
             
             
             

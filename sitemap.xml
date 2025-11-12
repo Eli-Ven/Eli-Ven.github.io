@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eli-ven.github.io/posts/</loc>
-    <lastmod>2025-08-14T21:37:32-07:00</lastmod>
-  </url><url>
-    <loc>https://eli-ven.github.io/</loc>
-    <lastmod>2025-08-14T21:37:32-07:00</lastmod>
-  </url><url>
-    <loc>https://eli-ven.github.io/posts/noname/noname_25_08_14/</loc>
-    <lastmod>2025-08-14T21:37:32-07:00</lastmod>
-  </url><url>
     <loc>https://eli-ven.github.io/categories/</loc>
     <lastmod>2025-05-15T15:20:03-07:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/categories/fourction/</loc>
     <lastmod>2025-05-15T15:20:03-07:00</lastmod>
   </url><url>
+    <loc>https://eli-ven.github.io/posts/</loc>
+    <lastmod>2025-05-15T15:20:03-07:00</lastmod>
+  </url><url>
     <loc>https://eli-ven.github.io/posts/fourction/fourction250515/</loc>
+    <lastmod>2025-05-15T15:20:03-07:00</lastmod>
+  </url><url>
+    <loc>https://eli-ven.github.io/</loc>
     <lastmod>2025-05-15T15:20:03-07:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/posts/betweeninterviews/</loc>
@@ -187,6 +184,9 @@
   </url><url>
     <loc>https://eli-ven.github.io/posts/fourction/fourction_valentine/</loc>
     <lastmod>2023-02-18T07:46:21-07:00</lastmod>
+  </url><url>
+    <loc>https://eli-ven.github.io/cyberpunk/</loc>
+    <lastmod>2023-05-21T18:41:32-07:00</lastmod>
   </url><url>
     <loc>https://eli-ven.github.io/categories/jottings/</loc>
     <lastmod>2023-04-22T07:46:09-07:00</lastmod>
