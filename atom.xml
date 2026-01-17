@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-01-16T19:11:16-07:00</updated>
+    <updated>2026-01-16T19:13:03-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -16,13 +16,13 @@
 赛博朋克其二: 德拉曼</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_2_delamain/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_2_delamain/</id>
-            <updated>2026-01-16T19:11:11-07:00</updated>
+            <updated>2026-01-16T19:13:01-07:00</updated>
             <published>2026-01-16T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
-                人能实现任何他不怀恐惧的欲望.
+                我对&amp;rsquo;让文章不那么说明文&amp;rsquo;的全部理解: 来点色色.
                 
 
             </summary>
