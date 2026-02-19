@@ -4,13 +4,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-02-17T19:36:55-07:00</updated>
+    <updated>2026-02-18T23:05:09-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
     
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
+        <entry>
+            <title type="text">
+赛博朋克其二: 德拉曼</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_3_laing/" />
+            <id>https://eli-ven.github.io/posts/cyber/cbpv_3_laing/</id>
+            <updated>2026-02-18T23:05:06-07:00</updated>
+            <published>2026-02-18T10:00:45-07:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                唯荤段子和矮人笑话不可辜负.
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">
 赛博朋克其二: 德拉曼</title>
