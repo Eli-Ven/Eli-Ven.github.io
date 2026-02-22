@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-02-19T14:41:49-07:00</updated>
+    <updated>2026-02-22T11:22:52-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -13,10 +13,54 @@
     <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
         <entry>
             <title type="text">
+四格抄 26.02.21</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/fourction/fourction260221/" />
+            <id>https://eli-ven.github.io/posts/fourction/fourction260221/</id>
+            <updated>2026-02-21T21:13:03-07:00</updated>
+            <published>2026-02-21T11:00:43-07:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                What can I say, man?
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/fourction/" term="Fourction" label="Fourction" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/tags/cloudream/" term="Cloudream" label="Cloudream" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">
 赛博朋克其三: 屁股</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_3_ass/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_3_ass/</id>
-            <updated>2026-02-19T01:23:57-07:00</updated>
+            <updated>2026-02-22T11:22:44-07:00</updated>
             <published>2026-02-18T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -44,7 +88,7 @@
 赛博朋克其二: 德拉曼</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_2_delamain/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_2_delamain/</id>
-            <updated>2026-01-16T19:20:07-07:00</updated>
+            <updated>2026-02-22T11:22:37-07:00</updated>
             <published>2026-01-16T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -144,7 +188,7 @@
 赛博朋克其一: 夏奇峰</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_1_kevyn/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_1_kevyn/</id>
-            <updated>2026-02-19T14:41:45-07:00</updated>
+            <updated>2026-02-22T11:22:28-07:00</updated>
             <published>2025-11-12T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
