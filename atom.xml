@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-02-22T11:22:52-07:00</updated>
+    <updated>2026-02-22T11:23:24-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -60,7 +60,7 @@
 赛博朋克其三: 屁股</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_3_ass/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_3_ass/</id>
-            <updated>2026-02-22T11:22:44-07:00</updated>
+            <updated>2026-02-22T11:23:10-07:00</updated>
             <published>2026-02-18T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -77,6 +77,14 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/cyber/" term="Cyber" label="Cyber" />
+                            
+                        
+                    
                 
                     
                 
@@ -88,7 +96,7 @@
 赛博朋克其二: 德拉曼</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_2_delamain/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_2_delamain/</id>
-            <updated>2026-02-22T11:22:37-07:00</updated>
+            <updated>2026-02-22T11:23:07-07:00</updated>
             <published>2026-01-16T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -104,6 +112,14 @@
             
             
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/cyber/" term="Cyber" label="Cyber" />
+                            
+                        
                     
                 
                     
@@ -188,7 +204,7 @@
 赛博朋克其一: 夏奇峰</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_1_kevyn/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_1_kevyn/</id>
-            <updated>2026-02-22T11:22:28-07:00</updated>
+            <updated>2026-02-22T11:23:05-07:00</updated>
             <published>2025-11-12T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
@@ -204,6 +220,14 @@
             
             
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://eli-ven.github.io/categories/cyber/" term="Cyber" label="Cyber" />
+                            
+                        
                     
                 
                     
