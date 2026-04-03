@@ -19,10 +19,46 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 03 Apr 2026 16:42:38 -0700</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 16:43:27 -0700</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://eli-ven.github.io/rss.xml" />
         
+        
+            <item>
+                <title>
+赛博朋克其四: 幽灵</title>
+                <link>https://eli-ven.github.io/posts/cyber/cbpv_4_ghost/</link>
+                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyber/cbpv_4_ghost/</guid>
+                <pubDate>Fri, 03 Apr 2026 10:00:45 -0700</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        人死如灯灭.
+                        
+
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://eli-ven.github.io/categories/cyber/">Cyber</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>
@@ -1638,42 +1674,6 @@ Hello_world</title>
                 
                 
                     
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>
-赛博朋克其四: 幽灵</title>
-                <link>https://eli-ven.github.io/posts/cyber/cbpv_4_ghost/</link>
-                <guid isPermaLink="true">https://eli-ven.github.io/posts/cyber/cbpv_4_ghost/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                
-                <description>
-                        人死如灯灭.
-                        
-
-                    </description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://eli-ven.github.io/categories/cyber/">Cyber</category>
-                                
-                            
                         
                     
                         
