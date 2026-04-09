@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-04-06T16:51:14-07:00</updated>
+    <updated>2026-04-09T00:01:22-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
@@ -13,10 +13,39 @@
     <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
         <entry>
             <title type="text">
+赛博朋克其五: 疑凶</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_5_android/" />
+            <id>https://eli-ven.github.io/posts/cyber/cbpv_5_android/</id>
+            <updated>2026-04-09T00:01:08-07:00</updated>
+            <published>2026-04-08T23:59:38-07:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;为什么不做一个他的替身呢?&lt;/p&gt;
+&lt;p&gt;夏奇峰第一反应是回答没钱. 然而事实上, 与大卫生前梦想的哈斯生化仿生人不同, 想要用人工智能生成一个人类的替代品实在再简单不过. 早在上个世纪初就有“Skill”技术来使大语言模型模拟真人说话了, 只要有聊天软件和社交媒体的记录, 就能用一杯咖啡的价格和虚拟前任聊一杯咖啡的时间. 一个世纪过去, 不仅人工智能技术突飞猛进, 数据采集技术与社会共识也日新月异, 造一个数字克隆来陪伴自己或纪念亲人已经是平民廉价的娱乐手段了, 他们称之为“替身”. 别看芭芭拉对此抗拒至极, 不知多少草根明星是靠销售数字克隆声名鹊起, 他们的关怀和欢笑曾在无数个夜里抚慰形形色色的失意之人.&lt;/p&gt;
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">
 赛博朋克其四: 替身</title>
             <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/cyber/cbpv_4_ghost/" />
             <id>https://eli-ven.github.io/posts/cyber/cbpv_4_ghost/</id>
-            <updated>2026-04-06T16:51:12-07:00</updated>
+            <updated>2026-04-08T23:59:06-07:00</updated>
             <published>2026-04-03T10:00:45-07:00</published>
             <author>
                     <uri>https://eli-ven.github.io/</uri>
