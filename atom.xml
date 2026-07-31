@@ -4,13 +4,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-07-25T18:38:18&#43;08:00</updated>
+    <updated>2026-07-31T21:51:56&#43;08:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
     
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
+        <entry>
+            <title type="text">
+午暮遗书</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/last_letter/" />
+            <id>https://eli-ven.github.io/posts/last_letter/</id>
+            <updated>2026-07-31T21:51:49&#43;08:00</updated>
+            <published>2026-07-31T21:50:36&#43;08:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                总有一天我会写出能让爸妈看的少儿适宜作品。
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">
 记六月十二读李贺</title>
