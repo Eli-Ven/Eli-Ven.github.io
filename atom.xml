@@ -4,13 +4,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">无复城</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2026-08-07T22:01:23-07:00</updated>
+    <updated>2026-08-08T10:17:35-07:00</updated>
     <id>https://eli-ven.github.io/</id>
     <link rel="alternate" type="text/html" href="https://eli-ven.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://eli-ven.github.io/atom.xml" />
     
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.148.2">Hugo</generator>
+        <entry>
+            <title type="text">
+一万种失败的其中一种</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/jottings/1in10k/" />
+            <id>https://eli-ven.github.io/posts/jottings/1in10k/</id>
+            <updated>2026-08-08T10:17:17-07:00</updated>
+            <published>2026-08-08T10:16:24-07:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                更新一下一个月前写的两篇随笔。
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">
+试论病娇与重力系</title>
+            <link rel="alternate" type="text/html" href="https://eli-ven.github.io/posts/jottings/nagasaki/" />
+            <id>https://eli-ven.github.io/posts/jottings/nagasaki/</id>
+            <updated>2026-08-08T10:16:03-07:00</updated>
+            <published>2026-08-08T10:15:18-07:00</published>
+            <author>
+                    <uri>https://eli-ven.github.io/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                更新一下一个月前写的几篇随笔。
+                
+
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">
 赛博朋克其八: 斗</title>
